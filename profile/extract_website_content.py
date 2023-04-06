@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import os
 
 # URL of the website to scrape
-url = 'https://example.com'
+url = 'https://syaamantak-das.carrd.co/'
 
 # Request the website content
 response = requests.get(url)
