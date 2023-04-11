@@ -12,7 +12,7 @@ response = requests.get(url)
 soup = BeautifulSoup(response.content, 'html.parser')
 
 # Extract the desired content from the HTML using BeautifulSoup
-content = soup.find_all('p')
+content = soup.find_all()
 
 # Create a string with the extracted content
 content_str = ''
