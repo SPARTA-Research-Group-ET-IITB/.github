@@ -17,6 +17,6 @@ jobs:
       - name: Install dependencies
         run: pip install requests beautifulsoup4
       - name: Run script
-        run: python extract_website_content.py
+        run: python .github/profile/extract_website_content.py
         env:
           GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
