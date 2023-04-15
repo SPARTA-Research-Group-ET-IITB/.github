@@ -403,7 +403,9 @@ Disclaimer: Project STORIES doesn't collect any financial support through any me
 
 ## **Contact Us**
 
-<span class="p">We are looking for: Anyone who is interested in joining us. If you are unsure what to do and how to do it, come and meet us at the address below. We can have a cup of coffee together :-)</span><span class="p">**Prof. Syaamantak Das’s office,  
+<span class="p">We are looking for: Anyone who is interested in joining us. If you are unsure what to do and how to do it, come and meet us at the address below. We can have a cup of coffee together :-)</span>
+
+<span class="p">**Prof. Syaamantak Das’s office,  
 Faculty Cabins,  
 Interdisciplinary program in Educational Technology,  
 Old CESE Building (beside Rahul Bajaj Centre / Opposite VMCC)  
