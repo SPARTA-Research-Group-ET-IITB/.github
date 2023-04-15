@@ -57,7 +57,7 @@ Schedule **[Appointment](https://calendly.com/syaamantak_das)**</span>
 <tr>
 
 <td>  
-**Assistant Professor**,  
+Assistant Professor,  
 IDP In Educational Technology,  
 Indian Institute of Technology Bombay  
 </td>
