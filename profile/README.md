@@ -4,7 +4,6 @@
 
 <div class="inner">
 
-<div id="image02" class="image"><span class="frame">![]</span></div>
 
 <div id="container02" class="style2 container default full">
 
@@ -71,7 +70,7 @@ April 2022 - present</td>
 <tr>
 
 <td>  
-**Data and Policy Summer Scholar** (Educational Data Policy)  
+Data and Policy Summer Scholar (Educational Data Policy)  
 Harris School of Public Policy, University of Chicago</td>
 
 <td>  
@@ -82,7 +81,7 @@ Summer 2022</td>
 <tr>
 
 <td>  
-**Business Analyst [Intern @ Text Data Team]**,  
+Business Analyst [Intern @ Text Data Team],  
 OTC Products,  
 Piramal Enterprises Ltd., Mumbai</td>
 
@@ -94,7 +93,7 @@ October 2018 - December 2018</td>
 <tr>
 
 <td>  
-**Senior Research Fellow** [Doctoral Research Scholar] ,  
+Senior Research Fellow [Doctoral Research Scholar] ,  
 Centre for Educational Technology,  
 Indian Institute of Technology Kharagpur</td>
 
@@ -106,7 +105,7 @@ Jan 2018 - March 2021</td>
 <tr>
 
 <td>  
-**Summer Trainee**  
+Summer Trainee  
 WorldQuant LLC.</td>
 
 <td>  
@@ -117,7 +116,7 @@ June 2018 - July 2018</td>
 <tr>
 
 <td>  
-**Junior Research Fellow** [Doctoral Research Scholar],  
+Junior Research Fellow [Doctoral Research Scholar],  
 Centre for Educational Technology,  
 Indian Institute of Technology Kharagpur</td>
 
@@ -129,7 +128,7 @@ July 2015 - Dec 2017</td>
 <tr>
 
 <td>  
-**Teaching Assistant** [Ed-Tech Lab Course],  
+Teaching Assistant [Ed-Tech Lab Course],  
 Dept. of Computer Science and Engineering,  
 NITTTR Kolkata</td>
 
@@ -234,7 +233,6 @@ July 2019 - July 2020</td>
 
 * * *
 
-<div id="image01" class="style1 image"><span class="frame">![]</span></div>
 
 ## **School Pedagogy Assessment Research and Text Analytics (SPARTA) Research Group**
 
@@ -385,7 +383,6 @@ _Pratik contributed by developing an accessible plugin for the ET IITB website. 
 
 ## **Our Outreach Program**
 
-<div id="image03" class="image"><span class="frame">![]</span></div>
 
 <div id="list08" class="list">
 
