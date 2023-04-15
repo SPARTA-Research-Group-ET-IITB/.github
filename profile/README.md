@@ -185,10 +185,10 @@ Autumn Semester 2014</td>
 Reviewer</td>
 
 <td>  
-1\. IEEE Access  
-2\. Journal of Education, SAGE  
-3\. Social Sciences, Springer Nature  
-4\. Frontiers</td>
+1. IEEE Access  
+2. Journal of Education, SAGE  
+3. Social Sciences, Springer Nature  
+4. Frontiers</td>
 
 <td>  
 2019 - present</td>
@@ -415,9 +415,6 @@ IIT Bombay, Mumbai 400076**</span>
 
 शुभम भवतु (May all that happens to you be good to you)
 
-Text
-
-<div id="credits" class="icc-credits"><span>[Made with Carrd](https://carrd.co/build?ref=auto)</span></div>
 
 </div>
 
