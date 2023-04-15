@@ -1,197 +1,301 @@
-Syaamantak Das
-Assistant Professor,
-Interdisciplinary program in Educational Technology,
-Indian Institute of Technology Bombay, Mumbai, India
+Syaamantak Dashtml,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline;}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block;}body{line-height:1;}ol,ul{list-style:none;}blockquote,q{quotes:none;}blockquote:before,blockquote:after,q:before,q:after{content:'';content:none;}table{border-collapse:collapse;border-spacing:0;}body{-webkit-text-size-adjust:none}mark{background-color:transparent;color:inherit}input::-moz-focus-inner{border:0;padding:0}input\[type="text"\],input\[type="email"\],select,textarea{-moz-appearance:none;-webkit-appearance:none;-ms-appearance:none;appearance:none}\*, \*:before, \*:after {box-sizing: border-box;}body {line-height: 1.0;min-height: var(--viewport-height);min-width: 320px;overflow-x: hidden;word-wrap: break-word;background-color: #FCFCFC;}:root {--background-height: 100vh;--site-language-alignment: left;--site-language-direction: ltr;--site-language-flex-alignment: flex-start;--site-language-indent-left: 1;--site-language-indent-right: 0;--viewport-height: 100vh;}html {font-size: 23pt;}u {text-decoration: underline;}strong {color: inherit;font-weight: bolder;}em {font-style: italic;}code {background-color: rgba(144,144,144,0.25);border-radius: 0.25em;font-family: 'Lucida Console', 'Courier New', monospace;font-size: 0.9em;font-weight: normal;letter-spacing: 0;margin: 0 0.25em;padding: 0.25em 0.5em;text-indent: 0;}mark {background-color: rgba(144,144,144,0.25);}s {text-decoration: line-through;}sub {font-size: smaller;vertical-align: sub;}sup {font-size: smaller;vertical-align: super;}a {color: inherit;text-decoration: underline;transition: color 0.25s ease;}#wrapper {-webkit-overflow-scrolling: touch;align-items: center;display: flex;flex-direction: column;justify-content: center;min-height: var(--viewport-height);overflow: hidden;position: relative;z-index: 2;padding: 1.5rem 1.5rem 1.5rem 1.5rem;}#main {--alignment: left;--flex-alignment: flex-start;--indent-left: 1;--indent-right: 0;--border-radius-tl: 0;--border-radius-tr: 0;--border-radius-br: 0;--border-radius-bl: 0;align-items: center;display: flex;flex-grow: 0;flex-shrink: 0;justify-content: center;max-width: 100%;position: relative;text-align: var(--alignment);z-index: 1;background-color: #FFFFFF;box-shadow: 0rem 0.125rem 2.875rem 0rem rgba(0,0,0,0.071);transition: opacity 1s ease 0s,transform 1s ease 0s;}#main > .inner {--padding-horizontal: 3rem;--padding-vertical: 0rem;--spacing: 1rem;--width: 44rem;border-radius: var(--border-radius-tl) var(--border-radius-tr) var(--border-radius-br) var(--border-radius-bl);max-width: 100%;position: relative;width: var(--width);z-index: 1;padding: var(--padding-vertical) var(--padding-horizontal);}#main > .inner > \* {margin-top: var(--spacing);margin-bottom: var(--spacing);}#main > .inner > :first-child {margin-top: 0 !important;}#main > .inner > :last-child {margin-bottom: 1rem !important;}#main > .inner > .full {margin-left: calc(var(--padding-horizontal) \* -1);max-width: calc(100% + calc(var(--padding-horizontal) \* 2) + 0.4725px);width: calc(100% + calc(var(--padding-horizontal) \* 2) + 0.4725px);}#main > .inner > .full:first-child {border-top-left-radius: inherit;border-top-right-radius: inherit;margin-top: calc(var(--padding-vertical) \* -1) !important;}#main > .inner > .full:last-child {border-bottom-left-radius: inherit;border-bottom-right-radius: inherit;margin-bottom: calc(var(--padding-vertical) \* -1) !important;}#main > .inner > .full.screen {border-radius: 0 !important;max-width: 100vw;position: relative;width: 100vw;left: 50%;margin-left: -50vw;right: auto;}body.is-loading #main {opacity: 0;transform: translateY(1.6875rem);}body.is-instant #main, body.is-instant #main > .inner > \*,body.is-instant #main > .inner > section > \* {transition: none !important;}body.is-instant:after {display: none !important;transition: none !important;}.image {display: block;line-height: 0;max-width: 100%;position: relative;}.image .frame {-webkit-backface-visibility: hidden;-webkit-transform: translate3d(0, 0, 0);display: inline-block;max-width: 100%;overflow: hidden;vertical-align: top;width: 100%;}.image .frame img {border-radius: 0 !important;max-width: 100%;vertical-align: top;width: inherit;}.image.full .frame {display: block;}.image.full:first-child .frame {border-top-left-radius: inherit;border-top-right-radius: inherit;}.image.full:last-child .frame {border-bottom-left-radius: inherit;border-bottom-right-radius: inherit;}#image02 {text-align: center;}#image02 .frame {max-width: 100%;width: 152px;border-radius: 3rem;transition: none;}#image02 .frame img {transition: none;}.image.style1 {text-align: center;}.image.style1 .frame {max-width: 100%;width: 303px;border-radius: 1.5rem;border-color: #FF1F00;border-style: solid;border-width: 5px;transition: none;}.image.style1 .frame img:first-child {border-radius: calc(1.5rem - 5px) !important;}.image.style1 .frame img {transition: none;}#image03 {text-align: center;}#image03 .frame {max-width: 100%;width: 615px;border-radius: 1.5rem;border-color: #FF1F00;border-style: solid;border-width: 5px;transition: none;}#image03 .frame img:first-child {border-radius: calc(1.5rem - 5px) !important;}#image03 .frame img {transition: none;}.container {position: relative;}.container > .wrapper {vertical-align: top;position: relative;max-width: 100%;border-radius: inherit;}.container > .wrapper > .inner {vertical-align: top;position: relative;max-width: 100%;border-radius: inherit;text-align: var(--alignment);}#main .container.full:first-child > .wrapper {border-top-left-radius: inherit;border-top-right-radius: inherit;}#main .container.full:last-child > .wrapper {border-bottom-left-radius: inherit;border-bottom-right-radius: inherit;}#main .container.full:first-child > .wrapper > .inner {border-top-left-radius: inherit;border-top-right-radius: inherit;}#main .container.full:last-child > .wrapper > .inner {border-bottom-left-radius: inherit;border-bottom-right-radius: inherit;}.container.style2 {display: flex;width: 100%;align-items: center;justify-content: center;background-image: url('data:image/svg+xml;charset=utf8,%3Csvg%20viewBox%3D%220%200%20512%20512%22%20width%3D%22512%22%20height%3D%22512%22%20version%3D%221.1%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%20%3Cfilter%20id%3D%22noise%22%3E%20%3CfeTurbulence%20type%3D%22fractalNoise%22%20baseFrequency%3D%220.875%22%20result%3D%22noise%22%20%2F%3E%20%3CfeColorMatrix%20type%3D%22matrix%22%20values%3D%220.3203125%200%200%200%200%200%200.5546875%200%200%200%200%200%200.77734375%200%200%200%200%200%200.52734375%200%22%20%2F%3E%20%3C%2Ffilter%3E%20%3Crect%20filter%3D%22url%28%23noise%29%22%20x%3D%220%22%20y%3D%220%22%20width%3D%22512%22%20height%3D%22512%22%20fill%3D%22transparent%22%20opacity%3D%221%22%20%2F%3E%3C%2Fsvg%3E'), linear-gradient(45deg, #FF0000 0%, #F7FC00 100%);background-size: 512px, cover;background-position: center, 0% 0%;background-repeat: repeat, repeat;}.container.style2:not(:first-child) {margin-top: 0rem !important;}.container.style2:not(:last-child) {margin-bottom: 3rem !important;}.container.style2 > .wrapper > .inner {--gutters: 2rem;--padding-horizontal: 3rem;--padding-vertical: 3.25rem;--spacing: 1rem;padding: var(--padding-vertical) var(--padding-horizontal);}.container.style2 > .wrapper {max-width: var(--width);width: 100%;}.container.style2.default > .wrapper > .inner > \* {margin-bottom: var(--spacing);margin-top: var(--spacing);}.container.style2.default > .wrapper > .inner > \*:first-child {margin-top: 0 !important;}.container.style2.default > .wrapper > .inner > \*:last-child {margin-bottom: 0 !important;}.container.style2.columns > .wrapper > .inner {flex-wrap: wrap;display: flex;align-items: flex-start;}.container.style2.columns > .wrapper > .inner > \* {flex-grow: 0;flex-shrink: 0;max-width: 100%;text-align: var(--alignment);padding: 0 0 0 var(--gutters);}.container.style2.columns > .wrapper > .inner > \* > \* {margin-bottom: var(--spacing);margin-top: var(--spacing);}.container.style2.columns > .wrapper > .inner > \* > \*:first-child {margin-top: 0 !important;}.container.style2.columns > .wrapper > .inner > \* > \*:last-child {margin-bottom: 0 !important;}.container.style2.columns > .wrapper > .inner > \*:first-child {margin-left: calc(var(--gutters) \* -1);}.container.style2.default > .wrapper > .inner > .full {margin-left: calc(var(--padding-horizontal) \* -1);max-width: none !important;width: calc(100% + (var(--padding-horizontal) \* 2) + 0.4725px);}.container.style2.default > .wrapper > .inner > .full:first-child {margin-top: calc(var(--padding-vertical) \* -1) !important;border-top-left-radius: inherit;border-top-right-radius: inherit;}.container.style2.default > .wrapper > .inner > .full:last-child {margin-bottom: calc(var(--padding-vertical) \* -1) !important;border-bottom-left-radius: inherit;border-bottom-right-radius: inherit;}.container.style2.columns > .wrapper > .inner > div > .full {margin-left: calc(var(--gutters) \* -0.5);max-width: none !important;width: calc(100% + var(--gutters) + 0.4725px);}.container.style2.columns > .wrapper > .inner > div:first-child > .full {margin-left: calc(var(--padding-horizontal) \* -1);width: calc(100% + var(--padding-horizontal) + calc(var(--gutters) \* 0.5) + 0.4725px);}.container.style2.columns > .wrapper > .inner > div:last-child > .full {width: calc(100% + var(--padding-horizontal) + calc(var(--gutters) \* 0.5) + 0.4725px);}.container.style2.columns > .wrapper > .inner > div > .full:first-child {margin-top: calc(var(--padding-vertical) \* -1) !important;}.container.style2.columns > .wrapper > .inner > div > .full:last-child {margin-bottom: calc(var(--padding-vertical) \* -1) !important;}.container.style2.columns > .wrapper > .inner > div:first-child, .container.style2.columns > .wrapper > .inner > div:first-child > .full:first-child {border-top-left-radius: inherit;}.container.style2.columns > .wrapper > .inner > div:last-child, .container.style2.columns > .wrapper > .inner > div:last-child > .full:first-child {border-top-right-radius: inherit;}.container.style2.columns > .wrapper > .inner > .full {align-self: stretch;}.container.style2.columns > .wrapper > .inner > .full:first-child {border-bottom-left-radius: inherit;border-top-left-radius: inherit;}.container.style2.columns > .wrapper > .inner > .full:last-child {border-bottom-right-radius: inherit;border-top-right-radius: inherit;}.container.style2.columns > .wrapper > .inner > .full > .full:first-child:last-child {border-radius: inherit;height: calc(100% + (var(--padding-vertical) \* 2));}.container.style2.columns > .wrapper > .inner > .full > .full:first-child:last-child > \* {border-radius: inherit;height: 100%;position: absolute;width: 100%;}h1, h2, h3, p {direction: var(--site-language-direction);position: relative;}h1 span.p, h2 span.p, h3 span.p, p span.p {display: block;position: relative;}h1 span\[style\], h2 span\[style\], h3 span\[style\], p span\[style\], h1 strong, h2 strong, h3 strong, p strong, h1 a, h2 a, h3 a, p a, h1 code, h2 code, h3 code, p code, h1 mark, h2 mark, h3 mark, p mark {-webkit-text-fill-color: currentcolor;}h1.style3, h2.style3, h3.style3, p.style3 {color: #FFFFFF;font-family: '-apple-system', 'BlinkMacSystemFont', 'Segoe UI', 'Roboto', 'Helvetica Neue', 'Arial', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';letter-spacing: -0.075rem;width: 100%;font-size: 2.75em;line-height: 1.25;font-weight: 400;}h1.style3 a, h2.style3 a, h3.style3 a, p.style3 a {text-decoration: underline;}h1.style3 a:hover, h2.style3 a:hover, h3.style3 a:hover, p.style3 a:hover {text-decoration: none;}h1.style3 span.p:nth-child(n + 2), h2.style3 span.p:nth-child(n + 2), h3.style3 span.p:nth-child(n + 2), p.style3 span.p:nth-child(n + 2) {margin-top: 1rem;}h1.style4, h2.style4, h3.style4, p.style4 {color: #FFFFFF;font-family: 'Source Sans Pro', sans-serif;letter-spacing: 0.025rem;width: calc(100% + 0.025rem);font-size: 1em;line-height: 1;font-weight: 300;}h1.style4 a, h2.style4 a, h3.style4 a, p.style4 a {text-decoration: underline;}h1.style4 a:hover, h2.style4 a:hover, h3.style4 a:hover, p.style4 a:hover {text-decoration: none;}h1.style4 span.p:nth-child(n + 2), h2.style4 span.p:nth-child(n + 2), h3.style4 span.p:nth-child(n + 2), p.style4 span.p:nth-child(n + 2) {margin-top: 1rem;}h1.style2, h2.style2, h3.style2, p.style2 {text-align: center;color: #000000;font-family: 'Source Sans Pro', sans-serif;letter-spacing: -0.05rem;width: 100%;font-size: 1.75em;line-height: 1.25;font-weight: 400;}h1.style2 a, h2.style2 a, h3.style2 a, p.style2 a {text-decoration: underline;}h1.style2 a:hover, h2.style2 a:hover, h3.style2 a:hover, p.style2 a:hover {text-decoration: none;}h1.style2 span.p:nth-child(n + 2), h2.style2 span.p:nth-child(n + 2), h3.style2 span.p:nth-child(n + 2), p.style2 span.p:nth-child(n + 2) {margin-top: 1rem;}#text10 {text-align: justify;color: #000000;font-family: 'Source Sans Pro', sans-serif;font-size: 1em;line-height: 1;font-weight: 300;}#text10 a {color: #5E0E03;text-decoration: none;}#text10 a:hover {color: #07094A;}#text10 span.p:nth-child(n + 2) {margin-top: 1rem;}h1.style1, h2.style1, h3.style1, p.style1 {text-align: justify;color: #000000;font-family: 'Source Sans Pro', sans-serif;font-size: 1em;line-height: 1;font-weight: 300;}h1.style1 a, h2.style1 a, h3.style1 a, p.style1 a {color: #051EFC;text-decoration: none;}h1.style1 a:hover, h2.style1 a:hover, h3.style1 a:hover, p.style1 a:hover {color: #07094A;}h1.style1 span.p:nth-child(n + 2), h2.style1 span.p:nth-child(n + 2), h3.style1 span.p:nth-child(n + 2), p.style1 span.p:nth-child(n + 2) {margin-top: 1rem;}#text16 {text-align: justify;color: #000000;font-family: 'Source Sans Pro', sans-serif;font-size: 1em;line-height: 1;font-weight: 300;}#text16 mark {color: #0D0B01;background-color: #BDFF00;}#text16 a {color: #0711FA;text-decoration: none;}#text16 a:hover {color: #07094A;}#text16 span.p:nth-child(n + 2) {margin-top: 1rem;}.table-wrapper {max-width: 100%;-webkit-overflow-scrolling: touch;overflow-x: auto;overflow-y: hidden;}.table-inner {display: inline-block;max-width: 100%;}table {direction: var(--site-language-direction);text-align: var(--site-language-alignment);width: 100%;}th {font-weight: bolder;text-align: var(--site-language-alignment);}#table01 {text-align: center;color: #000000;font-family: 'Source Sans Pro', sans-serif;font-size: 1em;line-height: 1;font-weight: 300;}#table01 a {color: #0500F7;text-decoration: none;}#table01 a:hover {color: #07094A;}#table01 .table-inner {width: 100%;}#table01 thead {border-bottom: solid 2px rgba(0,0,0,0.129);}#table01 tbody tr {border-top: solid 1px rgba(0,0,0,0.047);}#table01 tbody tr:first-child {border-top: 0;}#table01 th, #table01 td {padding: 0rem 0rem;}#table01 th:first-child, #table01 td:first-child {padding-left: 0;}#table01 th:last-child, #table01 td:last-child {padding-right: 0;}#table02 {text-align: center;color: #000000;font-family: 'Source Sans Pro', sans-serif;font-size: 1em;line-height: 1;font-weight: 300;}#table02 a {color: #0500F7;text-decoration: none;}#table02 a:hover {color: #07094A;}#table02 .table-inner {width: 100%;}#table02 thead {border-bottom: solid 2px rgba(0,0,0,0.129);}#table02 tbody tr {border-top: solid 1px rgba(0,0,0,0.047);}#table02 tbody tr:first-child {border-top: 0;}#table02 th, #table02 td {padding: 0rem 0rem;}#table02 th:first-child, #table02 td:first-child {padding-left: 0;}#table02 th:last-child, #table02 td:last-child {padding-right: 0;}hr {border: 0;padding: 0;position: relative;width: 100%;}hr:before {content: '';display: inline-block;max-width: 100%;vertical-align: middle;}hr.style2:not(:first-child) {margin-top: 3rem !important;}hr.style2:not(:last-child) {margin-bottom: 3rem !important;}hr.style2:before {width: 100%;border-top: solid 1px rgba(0,0,0,0.129);height: 1px;margin-top: -0.5px;}hr.style1:before {width: 6rem;border-top: solid 3px #01060A;height: 3px;margin-top: -1.5px;}.list {display: block;}.list ul, .list ol {display: inline-block;max-width: 100%;text-align: var(--site-language-alignment);vertical-align: middle;}.list ul li, .list ol li {direction: var(--site-language-direction);display: flex;position: relative;}.list ul li:before, .list ol li:before {background-repeat: no-repeat;content: '';display: block;flex-grow: 0;flex-shrink: 0;font-variant: normal !important;letter-spacing: 0 !important;order: 1;position: relative;}.list ul li:after, .list ol li:after {content: '';display: block;flex-grow: 0;flex-shrink: 0;order: 2;pointer-events: none;}.list ul li p, .list ol li p {flex-grow: 1;flex-shrink: 1;order: 3;}.list ul li:first-child, .list ol li:first-child {margin-top: 0 !important;}.list.style1:not(:first-child) {margin-top: 1.375rem !important;}.list.style1:not(:last-child) {margin-bottom: 1.375rem !important;}.list.style1 {color: #030000;font-family: 'Source Sans Pro', sans-serif;font-size: 1em;line-height: 1;font-weight: 300;}.list.style1 mark {color: #5E1B1B;background-color: #BDFF00;}.list.style1 a {color: #1703FC;text-decoration: none;}.list.style1 a:hover {text-decoration: underline;}.list.style1 ul {width: 100%;padding-top: 0.1875rem;}.list.style1 ul li {margin-top: 0.625rem;}.list.style1 ul li:after {width: 0.75rem;}.list.style1 ul li:before {background-image: url('data:image/svg+xml;charset=utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20x%3D%220px%22%20y%3D%220px%22%20viewBox%3D%220%200%2040%2040%22%3E%3Crect%20x%3D%227.5%22%20y%3D%227.5%22%20width%3D%2225%22%20height%3D%2225%22%20fill%3D%22%23FC1708%22%20%2F%3E%3C%2Fsvg%3E');border-radius: 100%;background-position: center;background-repeat: no-repeat;background-size: 55%;height: 1.375rem;margin-top: -0.125rem;min-width: 1.375rem;padding: 0 0.171875rem;text-align: center;background-color: #FFFFFF;line-height: calc(1.375rem - 1px);}#list02:not(:first-child) {margin-top: 1.375rem !important;}#list02:not(:last-child) {margin-bottom: 1.375rem !important;}#list02 {color: #030000;font-family: 'Source Sans Pro', sans-serif;font-size: 1em;line-height: 1;font-weight: 300;}#list02 a {color: #5C5C5C;text-decoration: underline;}#list02 a:hover {text-decoration: none;}#list02 ul {width: 100%;padding-top: 0.1875rem;}#list02 ul li {margin-top: 0.625rem;}#list02 ul li:after {width: 0.75rem;}#list02 ul li:before {background-image: url('data:image/svg+xml;charset=utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20x%3D%220px%22%20y%3D%220px%22%20viewBox%3D%220%200%2040%2040%22%3E%3Crect%20x%3D%227.5%22%20y%3D%227.5%22%20width%3D%2225%22%20height%3D%2225%22%20fill%3D%22%23FCA908%22%20%2F%3E%3C%2Fsvg%3E');border-radius: 100%;background-position: center;background-repeat: no-repeat;background-size: 55%;height: 1.375rem;margin-top: -0.125rem;min-width: 1.375rem;padding: 0 0.171875rem;text-align: center;background-color: #FFFFFF;line-height: calc(1.375rem - 1px);}#list10:not(:first-child) {margin-top: 1.375rem !important;}#list10:not(:last-child) {margin-bottom: 1.375rem !important;}#list10 {color: #000000;font-family: 'Source Sans Pro', sans-serif;font-size: 1em;line-height: 1;font-weight: 300;}#list10 a {color: #0500F7;text-decoration: none;}#list10 a:hover {text-decoration: underline;}#list10 ul {width: 100%;padding-top: 0.1875rem;}#list10 ul li {margin-top: 0.625rem;}#list10 ul li:after {width: 0.75rem;}#list10 ul li:before {background-image: url('data:image/svg+xml;charset=utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20x%3D%220px%22%20y%3D%220px%22%20viewBox%3D%220%200%2040%2040%22%3E%3Crect%20x%3D%227.5%22%20y%3D%227.5%22%20width%3D%2225%22%20height%3D%2225%22%20fill%3D%22%23FC0303%22%20%2F%3E%3C%2Fsvg%3E');border-radius: 100%;background-position: center;background-repeat: no-repeat;background-size: 55%;height: 1.375rem;margin-top: -0.125rem;min-width: 1.375rem;padding: 0 0.171875rem;text-align: center;background-color: #FFFFFF;line-height: calc(1.375rem - 1px);}#list09:not(:first-child) {margin-top: 1.375rem !important;}#list09:not(:last-child) {margin-bottom: 1.375rem !important;}#list09 {color: #000000;font-family: 'Source Sans Pro', sans-serif;font-size: 1em;line-height: 1;font-weight: 300;}#list09 a {color: #0500F7;text-decoration: none;}#list09 a:hover {text-decoration: underline;}#list09 ul {width: 100%;padding-top: 0.1875rem;}#list09 ul li {margin-top: 0.625rem;}#list09 ul li:after {width: 0.75rem;}#list09 ul li:before {background-image: url('data:image/svg+xml;charset=utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20x%3D%220px%22%20y%3D%220px%22%20viewBox%3D%220%200%2040%2040%22%3E%3Crect%20x%3D%227.5%22%20y%3D%227.5%22%20width%3D%2225%22%20height%3D%2225%22%20fill%3D%22%23FC0303%22%20%2F%3E%3C%2Fsvg%3E');border-radius: 100%;background-position: center;background-repeat: no-repeat;background-size: 55%;height: 1.375rem;margin-top: -0.125rem;min-width: 1.375rem;padding: 0 0.171875rem;text-align: center;background-color: #FFFFFF;line-height: calc(1.375rem - 1px);}#list04:not(:first-child) {margin-top: 1.375rem !important;}#list04:not(:last-child) {margin-bottom: 1.375rem !important;}#list04 {color: #0F0303;font-family: 'Source Sans Pro', sans-serif;font-size: 1em;line-height: 1;font-weight: 300;}#list04 a {color: #122FC9;text-decoration: none;}#list04 a:hover {text-decoration: underline;}#list04 ul {width: 100%;padding-top: 0.1875rem;}#list04 ul li {margin-top: 0.625rem;}#list04 ul li:after {width: 0.75rem;}#list04 ul li:before {background-image: url('data:image/svg+xml;charset=utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20x%3D%220px%22%20y%3D%220px%22%20viewBox%3D%220%200%2040%2040%22%3E%3Crect%20x%3D%227.5%22%20y%3D%227.5%22%20width%3D%2225%22%20height%3D%2225%22%20fill%3D%22%23FC0303%22%20%2F%3E%3C%2Fsvg%3E');border-radius: 100%;background-position: center;background-repeat: no-repeat;background-size: 55%;height: 1.375rem;margin-top: -0.125rem;min-width: 1.375rem;padding: 0 0.171875rem;text-align: center;background-color: #FFFFFF;line-height: calc(1.375rem - 1px);}#list05:not(:first-child) {margin-top: 1.375rem !important;}#list05:not(:last-child) {margin-bottom: 1.375rem !important;}#list05 {color: #5C5C5C;font-family: 'Source Sans Pro', sans-serif;font-size: 1em;line-height: 1;font-weight: 300;}#list05 a {color: #051DF5;text-decoration: none;}#list05 a:hover {text-decoration: underline;}#list05 ul {width: 100%;padding-top: 0.1875rem;}#list05 ul li {margin-top: 0.125rem;}#list05 ul li:after {width: 0.75rem;}#list05 ul li:before {background-image: url('data:image/svg+xml;charset=utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20x%3D%220px%22%20y%3D%220px%22%20viewBox%3D%220%200%2040%2040%22%3E%3Crect%20x%3D%227.5%22%20y%3D%227.5%22%20width%3D%2225%22%20height%3D%2225%22%20fill%3D%22%23FC0303%22%20%2F%3E%3C%2Fsvg%3E');border-radius: 100%;background-position: center;background-repeat: no-repeat;background-size: 55%;height: 1.375rem;margin-top: -0.125rem;min-width: 1.375rem;padding: 0 0.171875rem;text-align: center;background-color: #FFFFFF;line-height: calc(1.375rem - 1px);}#list06:not(:first-child) {margin-top: 1.375rem !important;}#list06:not(:last-child) {margin-bottom: 1.375rem !important;}#list06 {color: #5C5C5C;font-family: 'Source Sans Pro', sans-serif;font-size: 1em;line-height: 1;font-weight: 300;}#list06 a {color: #0D16E0;text-decoration: none;}#list06 a:hover {text-decoration: underline;}#list06 ul {width: 100%;padding-top: 0.1875rem;}#list06 ul li {margin-top: 0.625rem;}#list06 ul li:after {width: 0.75rem;}#list06 ul li:before {background-image: url('data:image/svg+xml;charset=utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20x%3D%220px%22%20y%3D%220px%22%20viewBox%3D%220%200%2040%2040%22%3E%3Crect%20x%3D%227.5%22%20y%3D%227.5%22%20width%3D%2225%22%20height%3D%2225%22%20fill%3D%22%23FC0303%22%20%2F%3E%3C%2Fsvg%3E');border-radius: 100%;background-position: center;background-repeat: no-repeat;background-size: 55%;height: 1.375rem;margin-top: -0.125rem;min-width: 1.375rem;padding: 0 0.171875rem;text-align: center;background-color: #FFFFFF;line-height: calc(1.375rem - 1px);}#list08:not(:first-child) {margin-top: 1.375rem !important;}#list08:not(:last-child) {margin-bottom: 1.375rem !important;}#list08 {color: #000000;font-family: 'Source Sans Pro', sans-serif;font-size: 1em;line-height: 1;font-weight: 300;}#list08 a {color: #0500F7;text-decoration: none;}#list08 a:hover {text-decoration: underline;}#list08 ul {width: 100%;padding-top: 0.1875rem;}#list08 ul li {margin-top: 0.625rem;}#list08 ul li:after {width: 0.75rem;}#list08 ul li:before {background-image: url('data:image/svg+xml;charset=utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20x%3D%220px%22%20y%3D%220px%22%20viewBox%3D%220%200%2040%2040%22%3E%3Crect%20x%3D%227.5%22%20y%3D%227.5%22%20width%3D%2225%22%20height%3D%2225%22%20fill%3D%22%23FC0303%22%20%2F%3E%3C%2Fsvg%3E');border-radius: 100%;background-position: center;background-repeat: no-repeat;background-size: 55%;height: 1.375rem;margin-top: -0.125rem;min-width: 1.375rem;padding: 0 0.171875rem;text-align: center;background-color: #FFFFFF;line-height: calc(1.375rem - 1px);}.icons {display: flex;flex-wrap: wrap;justify-content: var(--flex-alignment);letter-spacing: 0;padding: 0;}.icons li {position: relative;z-index: 1;}.icons li a {align-items: center;display: flex;justify-content: center;}.icons li a svg {display: block;position: relative;}.icons li a + svg {display: block;height: 100%;left: 0;pointer-events: none;position: absolute;top: 0;width: 100%;z-index: -1;}.icons li a .label {display: none;}.icons.style1 {font-size: 1.25em;gap: 0.75rem;}.icons.style1 li a {border-radius: 100%;height: 2em;width: 2em;transition: color 0.25s ease, background-color 0.25s ease, border-color 0.25s ease;}.icons.style1 li a svg {height: 60%;width: 60%;transition: fill 0.25s ease;}.icons.style1 a {background-color: #78C6FF;}.icons.style1 a svg {fill: #FFFFFF;}.icons.style1 a:hover {background-color: #5CBAFF !important;}.icons.style1 li a + svg {transition: fill 0.25s ease, stroke 0.25s ease;}#icons01 .n01 {background-color: #000708;}#icons01 .n01:hover {background-color: #0074FC !important;}#icons01 .n02 {background-color: #000000;}#icons01 .n02:hover {background-color: #1BAD03 !important;}#icons01 .n03 {background-color: #030000;}#icons01 .n03:hover {background-color: #FF1405 !important;}.icc-credits {display: block;opacity: 1 !important;position: relative;transition-delay: 0s !important;}.icc-credits span {border-radius: 24px;cursor: pointer;display: inline-block;font-family: Arial, sans-serif;font-size: 12px;letter-spacing: 0;line-height: 1;position: relative;text-decoration: none;width: auto;}.icc-credits span a {display: inline-block;padding: 0.5em 0.375em;position: relative;text-decoration: none;transition: color 0.25s ease, transform 0.25s ease;z-index: 1;}.icc-credits span a:before {content: '( ';opacity: 1;transition: opacity 0.25s ease;}.icc-credits span a:after {content: ' )';opacity: 1;transition: opacity 0.25s ease;}.icc-credits span::after {background-image: linear-gradient(30deg, #A464A1 15%, #3B5DAD 85%);border-radius: inherit;box-shadow: 0 0.25em 1.25em 0 rgba(0,0,0,0.25);content: '';display: block;height: calc(100% + 2px);left: -1px;opacity: 0;pointer-events: none;position: absolute;top: -1px;transition: opacity 0.25s ease, box-shadow 0.25s ease, transform 0.25s ease;width: calc(100% + 2px);}.icc-credits span:hover {text-transform: none !important;}.icc-credits span:hover a {color: #ffffff !important;transform: scale(1.1) translateY(-0.05rem);}.icc-credits span:hover a:before {opacity: 0;}.icc-credits span:hover a:after {opacity: 0;}.icc-credits span:hover::after {opacity: 1;transform: scale(1.1) translateY(-0.05rem);}#credits span {color: rgba(0,0,0,0.498);margin-top: 1rem !important;}@media (max-width: 1920px) {}@media (max-width: 1680px) {html {font-size: 17pt;}}@media (max-width: 1280px) {html {font-size: 17pt;}}@media (max-width: 1024px) {}@media (max-width: 980px) {body:before {background-color: #FCFCFC;content: '';display: block;height: var(--background-height);left: 0;pointer-events: none;position: relative;top: 0;transform: scale(1);width: 100%;z-index: 0;flex-grow: 1;flex-shrink: 0;max-height: 45vh;overflow: hidden;}html {font-size: 14pt;}body {display: flex;flex-direction: column;background-color: #FFFFFF;}#main {border-bottom: none;border-left: none;border-radius: 0;border-right: none;box-shadow: none;width: 100%;background-color: #FFFFFF;}#main > .inner {background: none;max-width: 75%;width: auto;transition: opacity 1s ease-in-out 0s;}#wrapper {height: auto !important;min-height: 0;padding: 0;box-shadow: -0rem -0.125rem 2.875rem 0rem rgba(0,0,0,0.071);}body.is-loading #main {opacity: 1;transform: none;}body.is-loading #main > .inner {opacity: 0;}}@media (max-width: 736px) {html {font-size: 14pt;}#main > .inner {--padding-horizontal: 2rem;--padding-vertical: 0rem;--spacing: 1rem;max-width: 100%;}#wrapper {padding: 0;}#image02:not(:first-child) {margin-top: 12rem !important;}#image02:not(:last-child) {margin-bottom: 12rem !important;}#image02 .frame {width: 100vw;}.image.style1:not(:first-child) {margin-top: 12rem !important;}.image.style1:not(:last-child) {margin-bottom: 12rem !important;}.image.style1 .frame {width: 100vw;}#image03:not(:first-child) {margin-top: 12rem !important;}#image03:not(:last-child) {margin-bottom: 12rem !important;}#image03 .frame {width: 100vw;}.container.style2:not(:first-child) {margin-top: 0rem !important;}.container.style2:not(:last-child) {margin-bottom: 2.25rem !important;}.container.style2 > .wrapper > .inner {--gutters: 2rem;--padding-horizontal: 1.5rem;--padding-vertical: 2.25rem;--spacing: 0.5rem;}.container.style2.columns > .wrapper > .inner {flex-direction: column !important;flex-wrap: nowrap !important;}.container.style2.columns > .wrapper > .inner > span {height: 0;margin-top: calc(var(--gutters) \* -1);pointer-events: none;visibility: hidden;}.container.style2.columns > .wrapper > .inner > \*:first-child {margin-left: 0 !important;padding-top: 0 !important;}.container.style2.columns > .wrapper > .inner > \* {padding: calc(var(--gutters) \* 0.5) 0 !important;}.container.style2.columns > .wrapper > .inner > \*:last-child {padding-bottom: 0 !important;}.container.style2.columns > .wrapper > .inner > div > .full {margin-left: calc(var(--padding-horizontal) \* -1);width: calc(100% + (var(--padding-horizontal) \* 2) + 0.4725px);}.container.style2.columns > .wrapper > .inner > div:first-of-type > .full {margin-left: calc(var(--padding-horizontal) \* -1);width: calc(100% + (var(--padding-horizontal) \* 2) + 0.4725px);}.container.style2.columns > .wrapper > .inner > div:last-of-type > .full {margin-left: calc(var(--padding-horizontal) \* -1);width: calc(100% + (var(--padding-horizontal) \* 2) + 0.4725px);}.container.style2.columns > .wrapper > .inner > div > .full:first-child {margin-top: calc(var(--gutters) \* -0.5) !important;}.container.style2.columns > .wrapper > .inner > div > .full:last-child {margin-bottom: calc(var(--gutters) \* -0.5) !important;}.container.style2.columns > .wrapper > .inner > div:first-of-type > .full:first-child {margin-top: calc(var(--padding-vertical) \* -1) !important;}.container.style2.columns > .wrapper > .inner > div:last-of-type > .full:last-child {margin-bottom: calc(var(--padding-vertical) \* -1) !important;}.container.style2.columns > .wrapper > .inner > div:first-of-type, .container.style2.columns > .wrapper > .inner > div:first-of-type > .full:first-child {border-top-left-radius: inherit;border-top-right-radius: inherit;}.container.style2.columns > .wrapper > .inner > div:last-of-type, .container.style2.columns > .wrapper > .inner > div:last-of-type > .full:last-child {border-bottom-left-radius: inherit;border-bottom-right-radius: inherit;}.container.style2.columns > .wrapper > .inner > div:first-of-type, .container.style2.columns > .wrapper > .inner > div:first-of-type > .full:last-child {border-bottom-left-radius: 0 !important;}.container.style2.columns > .wrapper > .inner > div:last-of-type, .container.style2.columns > .wrapper > .inner > div:last-of-type > .full:first-child {border-top-right-radius: 0 !important;}.container.style2.columns > .wrapper > .inner > .full > .full:first-child:last-child {height: auto;}.container.style2.columns > .wrapper > .inner > .full > .full:first-child:last-child > \* {height: auto;position: relative;width: auto;}h1.style3, h2.style3, h3.style3, p.style3 {letter-spacing: -0.065625rem;width: 100%;font-size: 2.375em;line-height: 1.25;}h1.style4, h2.style4, h3.style4, p.style4 {letter-spacing: 0.021875rem;width: calc(100% + 0.021875rem);font-size: 1em;line-height: 1;}h1.style2, h2.style2, h3.style2, p.style2 {letter-spacing: -0.04375rem;width: 100%;font-size: 1.75em;line-height: 1.25;}#text10 {letter-spacing: 0rem;width: 100%;font-size: 1em;line-height: 1;}h1.style1, h2.style1, h3.style1, p.style1 {letter-spacing: 0rem;width: 100%;font-size: 1em;line-height: 1;}#text16 {letter-spacing: 0rem;width: 100%;font-size: 1em;line-height: 1;}#table01 {letter-spacing: 0rem;font-size: 1em;line-height: 1;}#table01 th, #table01 td {padding: 0rem 0rem;}#table02 {letter-spacing: 0rem;font-size: 1em;line-height: 1;}#table02 th, #table02 td {padding: 0rem 0rem;}hr.style2:not(:first-child) {margin-top: 2rem !important;}hr.style2:not(:last-child) {margin-bottom: 2rem !important;}hr.style1:before {width: 6rem;}.list.style1:not(:first-child) {margin-top: 1.625rem !important;}.list.style1:not(:last-child) {margin-bottom: 1.625rem !important;}.list.style1 {letter-spacing: 0rem;font-size: 1em;line-height: 1;}.list.style1 ul {padding-top: 0.1875rem;}.list.style1 ul li {margin-top: 0.875rem;}.list.style1 ul li:after {width: 0.75rem;}.list.style1 ul li:before {height: 1.375rem;min-width: 1.375rem;padding: 0 0.171875rem;margin-top: -0.125rem;}#list02:not(:first-child) {margin-top: 1.625rem !important;}#list02:not(:last-child) {margin-bottom: 1.625rem !important;}#list02 {letter-spacing: 0rem;font-size: 1em;line-height: 1;}#list02 ul {padding-top: 0.1875rem;}#list02 ul li {margin-top: 0.875rem;}#list02 ul li:after {width: 0.75rem;}#list02 ul li:before {height: 1.375rem;min-width: 1.375rem;padding: 0 0.171875rem;margin-top: -0.125rem;}#list10:not(:first-child) {margin-top: 1.625rem !important;}#list10:not(:last-child) {margin-bottom: 1.625rem !important;}#list10 {letter-spacing: 0rem;font-size: 1em;line-height: 1;}#list10 ul {padding-top: 0.1875rem;}#list10 ul li {margin-top: 0.875rem;}#list10 ul li:after {width: 0.75rem;}#list10 ul li:before {height: 1.375rem;min-width: 1.375rem;padding: 0 0.171875rem;margin-top: -0.125rem;}#list09:not(:first-child) {margin-top: 1.625rem !important;}#list09:not(:last-child) {margin-bottom: 1.625rem !important;}#list09 {letter-spacing: 0rem;font-size: 1em;line-height: 1;}#list09 ul {padding-top: 0.1875rem;}#list09 ul li {margin-top: 0.875rem;}#list09 ul li:after {width: 0.75rem;}#list09 ul li:before {height: 1.375rem;min-width: 1.375rem;padding: 0 0.171875rem;margin-top: -0.125rem;}#list04:not(:first-child) {margin-top: 1.625rem !important;}#list04:not(:last-child) {margin-bottom: 1.625rem !important;}#list04 {letter-spacing: 0rem;font-size: 1em;line-height: 1;}#list04 ul {padding-top: 0.1875rem;}#list04 ul li {margin-top: 0.875rem;}#list04 ul li:after {width: 0.75rem;}#list04 ul li:before {height: 1.375rem;min-width: 1.375rem;padding: 0 0.171875rem;margin-top: -0.125rem;}#list05:not(:first-child) {margin-top: 1.625rem !important;}#list05:not(:last-child) {margin-bottom: 1.625rem !important;}#list05 {letter-spacing: 0rem;font-size: 1em;line-height: 1;}#list05 ul {padding-top: 0.1875rem;}#list05 ul li {margin-top: 0.875rem;}#list05 ul li:after {width: 0.75rem;}#list05 ul li:before {height: 1.375rem;min-width: 1.375rem;padding: 0 0.171875rem;margin-top: -0.125rem;}#list06:not(:first-child) {margin-top: 1.625rem !important;}#list06:not(:last-child) {margin-bottom: 1.625rem !important;}#list06 {letter-spacing: 0rem;font-size: 1em;line-height: 1;}#list06 ul {padding-top: 0.1875rem;}#list06 ul li {margin-top: 0.875rem;}#list06 ul li:after {width: 0.75rem;}#list06 ul li:before {height: 1.375rem;min-width: 1.375rem;padding: 0 0.171875rem;margin-top: -0.125rem;}#list08:not(:first-child) {margin-top: 1.625rem !important;}#list08:not(:last-child) {margin-bottom: 1.625rem !important;}#list08 {letter-spacing: 0rem;font-size: 1em;line-height: 1;}#list08 ul {padding-top: 0.1875rem;}#list08 ul li {margin-top: 0.875rem;}#list08 ul li:after {width: 0.75rem;}#list08 ul li:before {height: 1.375rem;min-width: 1.375rem;padding: 0 0.171875rem;margin-top: -0.125rem;}.icons.style1 {font-size: 1.125em;gap: 0.75rem;}}@media (max-width: 480px) {#main > .inner {--spacing: 0.875rem;}#wrapper {padding: 0;}.container.style2 > .wrapper > .inner {--spacing: 0.5rem;}}@media (max-width: 360px) {#main > .inner {--padding-horizontal: 1.5rem;--padding-vertical: 0rem;--spacing: 0.75rem;}#wrapper {padding: 0;}.container.style2 > .wrapper > .inner {--gutters: 1.5rem;--padding-horizontal: 1.125rem;--padding-vertical: 1.6875rem;--spacing: 0.4375rem;}h1.style3, h2.style3, h3.style3, p.style3 {font-size: 2.375em;}h1.style4, h2.style4, h3.style4, p.style4 {font-size: 1em;}h1.style2, h2.style2, h3.style2, p.style2 {font-size: 1.5em;}#text10 {font-size: 1em;}h1.style1, h2.style1, h3.style1, p.style1 {font-size: 1em;}#text16 {font-size: 1em;}#table01 {font-size: 1em;}#table02 {font-size: 1em;}.list.style1 {font-size: 1em;}.list.style1 ul {padding-top: 0.1875rem;}.list.style1 ul li:after {width: 0.75rem;}.list.style1 ul li:before {margin-top: -0.125rem;}#list02 {font-size: 1em;}#list02 ul {padding-top: 0.1875rem;}#list02 ul li:after {width: 0.75rem;}#list02 ul li:before {margin-top: -0.125rem;}#list10 {font-size: 1em;}#list10 ul {padding-top: 0.1875rem;}#list10 ul li:after {width: 0.75rem;}#list10 ul li:before {margin-top: -0.125rem;}#list09 {font-size: 1em;}#list09 ul {padding-top: 0.1875rem;}#list09 ul li:after {width: 0.75rem;}#list09 ul li:before {margin-top: -0.125rem;}#list04 {font-size: 1em;}#list04 ul {padding-top: 0.1875rem;}#list04 ul li:after {width: 0.75rem;}#list04 ul li:before {margin-top: -0.125rem;}#list05 {font-size: 1em;}#list05 ul {padding-top: 0.1875rem;}#list05 ul li:after {width: 0.75rem;}#list05 ul li:before {margin-top: -0.125rem;}#list06 {font-size: 1em;}#list06 ul {padding-top: 0.1875rem;}#list06 ul li:after {width: 0.75rem;}#list06 ul li:before {margin-top: -0.125rem;}#list08 {font-size: 1em;}#list08 ul {padding-top: 0.1875rem;}#list08 ul li:after {width: 0.75rem;}#list08 ul li:before {margin-top: -0.125rem;}.icons.style1 {gap: 0.5625rem;}}
 
-About
-Prof. Syaamantak Das is currently working as Assistant Professor in the interdisciplinary program (IDP) in Educational Technology at the Indian Institute of Technology Bombay ( [email protected]), Mumbai, India. Prof. Das received his Ph.D. in Cognitive Information Analysis of Educational Texts from the Centre for Educational Technology at the Indian Institute of Technology Kharagpur after completing his Masters in the field of Computer Science from the National Institute of Technology Durgapur and the National Institute of Technical Teachers’ Training and Research in Kolkata. After his Ph.D., he was with the Harris School of Public Policy, at the University of Chicago researching as a Data and Policy Summer Scholar in the field of Education Policy analyzing the impact of the “safe passage program” in Chicago city schools. Prior to this, he was associated with Piramal and WorldQuant. He is currently the Co-faculty-in-charge of the Website and Social Media Team, [email protected], and also the Faculty-coordinator for [email protected] in TechConnect 2022 at TechFest.
+body {overflow: auto !important;}#main {opacity: 1.0 !important;transform: none !important;transition: none !important;filter: none !important;}@media (max-width: 980px) {body:before {flex-grow: 1;flex-shrink: 0;max-height: 45vh;overflow: hidden;position: relative;width: 100%;}}
 
-Professional Memberships : ACM
+![](assets/images/image02.jpg?v=6cb1f4d0)
 
-Detailed CV here.
-Schedule Appointment
+**Syaamantak Das**
+==================
 
-Experience
-Position	Year
+**Assistant Professor,  
+Interdisciplinary program in Educational Technology,  
+Indian Institute of Technology Bombay, Mumbai, India**
 
-Assistant Professor,
-IDP In Educational Technology,
-Indian Institute of Technology Bombay
+**About**
+---------
 
+Prof. Syaamantak Das is currently working as Assistant Professor in the interdisciplinary program (IDP) in Educational Technology at the Indian Institute of Technology Bombay ( [\[email protected\]](https://www.et.iitb.ac.in)), Mumbai, India. Prof. Das received his Ph.D. in Cognitive Information Analysis of Educational Texts from the Centre for Educational Technology at the [Indian Institute of Technology Kharagpur](https://www.iitkgp.ac.in) after completing his Masters in the field of Computer Science from the [National Institute of Technology Durgapur](https://nitdgp.ac.in) and the [National Institute of Technical Teachers’ Training and Research in Kolkata](http://www.nitttrkol.ac.in). After his Ph.D., he was with the [Harris School of Public Policy, at the University of Chicago](https://harris.uchicago.edu) researching as a Data and Policy Summer Scholar in the field of Education Policy analyzing the impact of the “safe passage program” in Chicago city schools. Prior to this, he was associated with Piramal and WorldQuant. He is currently the Co-faculty-in-charge of the Website and Social Media Team, [\[email protected\]](/cdn-cgi/l/email-protection), and also the Faculty-coordinator for [\[email protected\]](/cdn-cgi/l/email-protection) in TechConnect 2022 at [TechFest](https://techfest.org/).  
+  
+Professional Memberships : [ACM](http://member.acm.org/~syaamantakd)  
+  
+Detailed [CV here](https://drive.google.com/file/d/1AeK298pWfus7NX9Clzb9gNSSpWLE_LFp/view?usp=share_link).  
+Schedule **[Appointment](https://calendly.com/syaamantak_das)**
+
+**Experience**
+--------------
+
+Position
+
+Year
+
+  
+**Assistant Professor**,  
+IDP In Educational Technology,  
+Indian Institute of Technology Bombay  
+
+  
 April 2022 - present
 
-Data and Policy Summer Scholar (Educational Data Policy)
-Harris School of Public Policy, University of Chicago	
+  
+**Data and Policy Summer Scholar** (Educational Data Policy)  
+Harris School of Public Policy, University of Chicago
+
+  
 Summer 2022
 
-Business Analyst [Intern @ Text Data Team],
-OTC Products,
-Piramal Enterprises Ltd., Mumbai	
+  
+**Business Analyst \[Intern @ Text Data Team\]**,  
+OTC Products,  
+Piramal Enterprises Ltd., Mumbai
+
+  
 October 2018 - December 2018
 
-Senior Research Fellow [Doctoral Research Scholar] ,
-Centre for Educational Technology,
-Indian Institute of Technology Kharagpur	
+  
+**Senior Research Fellow** \[Doctoral Research Scholar\] ,  
+Centre for Educational Technology,  
+Indian Institute of Technology Kharagpur
+
+  
 Jan 2018 - March 2021
 
-Summer Trainee
-WorldQuant LLC.	
+  
+**Summer Trainee**  
+WorldQuant LLC.
+
+  
 June 2018 - July 2018
 
-Junior Research Fellow [Doctoral Research Scholar],
-Centre for Educational Technology,
-Indian Institute of Technology Kharagpur	
+  
+**Junior Research Fellow** \[Doctoral Research Scholar\],  
+Centre for Educational Technology,  
+Indian Institute of Technology Kharagpur
+
+  
 July 2015 - Dec 2017
 
-Teaching Assistant [Ed-Tech Lab Course],
-Dept. of Computer Science and Engineering,
-NITTTR Kolkata	
-Autumn Semester 2014
-Community Service / Position of Responsibility
-Position	Organization	Year
-Associate editor and editorial board member	SN Social Sciences journal, Springer Nature	November 2021 - present
+  
+**Teaching Assistant** \[Ed-Tech Lab Course\],  
+Dept. of Computer Science and Engineering,  
+NITTTR Kolkata
 
-Reviewer	
-1. IEEE Access
-2. Journal of Education, SAGE
-3. Social Sciences, Springer Nature
-4. Frontiers	
+  
+Autumn Semester 2014
+
+**Community Service / Position of Responsibility**
+--------------------------------------------------
+
+Position
+
+Organization
+
+Year
+
+Associate editor and editorial board member
+
+SN Social Sciences journal, Springer Nature
+
+November 2021 - present
+
+  
+Reviewer
+
+  
+1\. IEEE Access  
+2\. Journal of Education, SAGE  
+3\. Social Sciences, Springer Nature  
+4\. Frontiers
+
+  
 2019 - present
 
-Founding Secretary	
-IEEE Computer Society, Student Branch Chapter,
-IIT Kharagpur	
+  
+Founding Secretary
+
+  
+IEEE Computer Society, Student Branch Chapter,  
+IIT Kharagpur
+
+  
 January 2020 - October 2020
 
-Departmental Representative	
-Research Scholar's Council,
-IIT Kharagpur	
+  
+Departmental Representative
+
+  
+Research Scholar's Council,  
+IIT Kharagpur
+
+  
 July 2019 - July 2020
 
-School Pedagogy Assessment Research and Text Analytics (SPARTA) Research Group
-We are a newly formed research group in IDP in Educational Technology, IIT Bombay started in May 2022. Our research focuses on human-centered Artificial Intelligence that enhances human capabilities, understands and anticipates an individual’s needs, especially with context to learning. We work with researchers from different disciplines (e.g. Learning Analytics, Information Retrieval) to build quality educational products that help learners to succeed in their quest for learning. The logo symbolizes 'Infinite Syntropy'- reflecting a research journey (the continuous transformation from chaos to a well defined structure).Broad Research Area:Cognitively informed Artificial Intelligence for Learning OptimizationAnalyzing insights from human perception of information from text data (e.g. how people learn, remember, and make decisions based on textual information) into the design and development of intelligent tools to support learning.Confereneces where our research got accepted: ACM Intelligent User Interfaces, Educational Data Mining, Artificial Intelligence in Education.
+* * *
 
-Our Research Projects
-Long-term Research Projects: (Ideally for Ph.D. candidates)Better Textbook Initiative: This is a comprehensive project to improve and optimize learner experience while interacting with a textbook. Currently project is sub-divided into three major goals:
+![](assets/images/image01.jpg?v=6cb1f4d0)
 
-1. Designing an 'phygital' interactive intelligent platform to combine digital advantages of interactions in physical textbooks.
+**School Pedagogy Assessment Research and Text Analytics (SPARTA) Research Group**
+----------------------------------------------------------------------------------
 
-2. Creating cognitively informed questions based on user interaction with learning materials (textbooks).
+We are a newly formed research group in IDP in Educational Technology, IIT Bombay started in May 2022. Our research focuses on human-centered Artificial Intelligence that enhances human capabilities, understands and anticipates an individual’s needs, especially with context to learning. We work with researchers from different disciplines (e.g. Learning Analytics, Information Retrieval) to build quality educational products that help learners to succeed in their quest for learning. The logo symbolizes '[Infinite Syntropy](https://philosophy-of-science.com/defining-syntropy/)'- reflecting a research journey (the continuous transformation from chaos to a well defined structure).**Broad Research Area:****Cognitively informed Artificial Intelligence for Learning Optimization**_Analyzing insights from human perception of information from text data (e.g. how people learn, remember, and make decisions based on textual information) into the design and development of intelligent tools to support learning._Confereneces where our research got accepted: [ACM Intelligent User Interfaces](https://iui.acm.org/2023/), [Educational Data Mining](https://educationaldatamining.org/edm2023/), [Artificial Intelligence in Education](https://www.aied2023.org/index.html).
 
-3. Developing an AI based support for the learner while interacting with the 'phygital' intelligent interactive platform.The current projects are:
+**Our Research Projects**
+=========================
 
-Designing an immersive collaborative active learning experience through Phygital textbooks
-[Project domain: Smart textbooks, Phygital textbooks]
+**Long-term Research Projects:** (Ideally for Ph.D. candidates)**Better Textbook Initiative:** This is a comprehensive project to improve and optimize learner experience while interacting with a textbook. Currently project is sub-divided into three major goals:  
+  
+1\. Designing an 'phygital' interactive intelligent platform to combine digital advantages of interactions in physical textbooks.  
+  
+2\. Creating cognitively informed questions based on user interaction with learning materials (textbooks).  
+  
+3\. Developing an AI based support for the learner while interacting with the 'phygital' intelligent interactive platform.The current projects are:
 
-Identifying learner deficiency in conceptual understanding while answering questions
-[Project domain: Question answer generation from restricted and limited search space]
+*   Designing an immersive collaborative active learning experience through Phygital textbooks  
+    _\[Project domain: Smart textbooks, Phygital textbooks\]_
+    
+*   Identifying learner deficiency in conceptual understanding while answering questions  
+    _\[Project domain: Question answer generation from restricted and limited search space\]_
+    
+*   Designing and developing a supportive intelligent conversational tool using learner-interaction data_  
+    \[Project domain: Conversational Artificial Intelligence\]_
+    
 
-Designing and developing a supportive intelligent conversational tool using learner-interaction data
-[Project domain: Conversational Artificial Intelligence]
+**Short-term Research Projects:**
 
-Short-term Research Projects:
+*   Analyzing visitor traffic for the ET-IITB website using a heatmap
+    
+*   Educational Text translation: A Cognitive Informativity-based approach (IIT Bombay iSURP)
+    
+*   Design and Development of a No-code AI Tech Stack for instructional design
+    
 
-Analyzing visitor traffic for the ET-IITB website using a heatmap
+**Collaboration Projects**
 
-Educational Text translation: A Cognitive Informativity-based approach (IIT Bombay iSURP)
+*   Cognitive level Analysis of tenth standard board examination assessment questions for STEM subjects in India — June 2022 - July 2022.  
+    Project domain: School Education, Assessment. Summer Research Project with [IISER Pune](https://www.iiserpune.ac.in)
+    
 
-Design and Development of a No-code AI Tech Stack for instructional design
+**Sponsored Projects**
 
-Collaboration Projects
+*   Design and development of low-cost immersive technology enabled inclusive and accessible OER (open educational resources) textbooks — June 2022 - present.  
+    Project domain: Smart textbooks. Sponsor: IRCC, IIT Bombay
+    
 
-Cognitive level Analysis of tenth standard board examination assessment questions for STEM subjects in India — June 2022 - July 2022.
-Project domain: School Education, Assessment. Summer Research Project with IISER Pune
-
-Sponsored Projects
-
-Design and development of low-cost immersive technology enabled inclusive and accessible OER (open educational resources) textbooks — June 2022 - present.
-Project domain: Smart textbooks. Sponsor: IRCC, IIT Bombay
-
-Our Group Ethos
-We want to be a “people first” research group that focuses on both the academic and personal growth of the members.
-
-We do not expect you to know everything. We expect that you are trying to know.
-
-We celebrate effort. We believe in giving effort till randomness favors us.
-
-Discussions are always open and encouraged. And it can be beyond your current research topic. We talk, brainstorm, and sprint a lot. Our whiteboards are always full.
-
-We expect ideas from you. No matter how small or ambitious it is. Tell us. We will hear you.
-
+**Our Group Ethos**  
+Be **battle ready**. The moment you go out be ready to face anything and everything the world may throw at you today, both good and bad.  
+  
+If you found an interesting problem and haven't started solving it, be ready to read about it's solution in your next literature survey.  
+  
+We want to be a “people first” research group that focuses on both the academic and personal growth of the members.  
+  
+We do not expect you to know everything. We expect that you are trying to know.  
+  
+We celebrate effort. We believe in giving effort till randomness favors us.  
+  
+Discussions are always open and encouraged. And it can be beyond your current research topic. We talk, brainstorm, and sprint a lot. Our whiteboards are always full.  
+  
+We expect ideas from you. No matter how small or ambitious it is. Tell us. We will hear you.  
+  
 Lastly, it’s OK to have a bad day. There is always a tomorrow.
 
-Team Members
-Current Team Members
+* * *
 
-Vijay Prakash (M.Tech. ET 2nd Year) - Vijay developed a new format for multiple-choice questions which allows the learner to identify his/her learning deficiency based on the answer chosen. Research Area: Multiple choice questions, Assessments, and Question generation.
-Publications:
-Vijay augmented the Summer project work of IISER Pune interns and it was accepted as a poster in EDM 2023. Congrats!
-Vijay and Kartik developed Q-GENius: A GPT based modified MCQ generator for identifying learner deficiency. The research paper of the project got accepted in AIED 2023 ! Congrats!
+**Team Members**
+----------------
 
-Devanshu Saindane (M.Tech. ET 2nd Year) - Devanshu designed Augmented Reality content that can be embedded in physical textbooks. Research Area: Embedded Augmented Reality.
+**Current Team Members**
 
-Sunny Prakash Prajapati (Ph.D. ET 1st Year) - With a background in Product Engineering Design from IISc, Sunny’s research is focused on designing an immersive collaborative active learning experience through Phygital textbooks. Research Area: Human-Computer Interaction, Collaborative Learning
-Publications: Doctoral Consortium and Poster accepted in ACM IUI 2023. Download additional paper resources.
-Scholarship/ Grants: Prime Minister Research Fellowship, Gary Marsden Travel Awards, ACM IUI Student Grants.
+*   **[Vijay Prakash](https://www.linkedin.com/in/vijaymax/)** (M.Tech. ET 2nd Year) - Vijay developed a new format for multiple-choice questions which allows the learner to identify his/her learning deficiency based on the answer chosen. Research Area: Multiple choice questions, Assessments, and Question generation.  
+    **_Publications_**:  
+    Vijay augmented the Summer project work of IISER Pune interns and it was accepted as a poster in [EDM 2023](https://educationaldatamining.org/edm2023/). Congrats!  
+    Vijay and Kartik developed **Q-GENius**: A GPT based modified MCQ generator for identifying learner deficiency. The research paper of the project got accepted in [AIED 2023](https://www.aied2023.org/) ! Congrats!
+    
+*   **[Devanshu Saindane](https://www.linkedin.com/in/devanshux12/)** (M.Tech. ET 2nd Year) - Devanshu designed Augmented Reality content that can be embedded in physical textbooks. Research Area: Embedded Augmented Reality.
+    
+*   **[Sunny Prakash Prajapati](https://www.linkedin.com/in/sunny-prakash-prajapati/)** (Ph.D. ET 1st Year) - With a background in Product Engineering Design from IISc, Sunny’s research is focused on designing an immersive collaborative active learning experience through Phygital textbooks. Research Area: Human-Computer Interaction, Collaborative Learning  
+    **_Publications_**: [Doctoral Consortium](https://dl.acm.org/doi/pdf/10.1145/3581754.3584108) and [Poster](https://dl.acm.org/doi/pdf/10.1145/3581754.3584117) accepted in [ACM IUI 2023](https://iui.acm.org/2023/). Download additional [paper resources](https://dl.acm.org/doi/10.1145/3581754.3584117).  
+    **__Scholarship/ Grants_:_** [Prime Minister Research Fellowship](https://www.pmrf.in/), [Gary Marsden Travel Awards](https://sigchi.org/awards/gary-marsden-travel-awards/), ACM IUI Student Grants.
+    
+*   **[Kartikay Agrawal](https://www.linkedin.com/in/kartikayagrawal/)** (incoming IRCC intern Jan 2023 onwards) - Kartikey, having a background in Data Science and Mathematics from DU, will be working on Question Answer pair generation from user-defined limited search space. Research Area: Information Search, Question answer generation.  
+    **_Publications_**:  
+    Kartik's first paper is **Q-GENius**: A GPT based modified MCQ generator for identifying learner deficiency. The research paper of the project got accepted in [AIED 2023](https://www.aied2023.org/) ! Congrats!
+    
+*   **IIT Bombay iSURP Interns: \[Research Project: Cognitive Informativity in Text Translation\]**  
+    **\- Isha Arora** (UG 2Y CSE)  
+    [**\- Vidit Khazanchi**](https://www.linkedin.com/in/viditkhazanchi/) (UG 2Y MEMS)  
+    **\- Hrishikesh Shashikant Jedhe Deshmukh** (UG 2Y CSE)  
+    **\- Dhruv Pandey** (UG 2Y ME)
+    
 
-Kartikay Agrawal (incoming IRCC intern Jan 2023 onwards) - Kartikey, having a background in Data Science and Mathematics from DU, will be working on Question Answer pair generation from user-defined limited search space. Research Area: Information Search, Question answer generation.
-Publications:
-Kartik's first paper is Q-GENius: A GPT based modified MCQ generator for identifying learner deficiency. The research paper of the project got accepted in AIED 2023 ! Congrats!
+* * *
 
-IIT Bombay iSURP Interns: [Research Project: Cognitive Informativity in Text Translation]
-- Isha Arora (UG 2Y CSE)
-- Vidit Khazanchi (UG 2Y MEMS)
-- Hrishikesh Shashikant Jedhe Deshmukh (UG 2Y CSE)
-- Dhruv Pandey (UG 2Y ME)
+**Alumni**
 
-Alumni
+*   **[Anirban Roy Chowdhury](https://www.linkedin.com/in/anirban-roy-chowdhury-155a0425b) and Nandagopal KS**  
+    (UG Intern from IISER Pune, June-July ‘22)
+    
 
-Anirban Roy Chowdhury and Nandagopal KS
-(UG Intern from IISER Pune, June-July ‘22)
+_Anirban and Nandagopal worked on a comparative study using Bloom’s Taxonomy to evaluate the cognitive levels of secondary school STEM exam questions in Indian School Boards. This research study investigates the cognitive levels of the questions used for assessment and evaluation purposes in three national school board secondary school leaving examinations in STEM subjects, administered in Indian schools from 2011 to 2020. We used the revised Bloom’s Taxonomy to identify the cognitive levels of 3071 exam questions. The study addresses the gap in the current literature on the non-availability of a comparative study of national school board assessment practices in India. The study provides a comparative analysis of three English medium Indian school boards (ICSE, CBSE, and NIOS) by analyzing what areas/topics the board exams test and which ones they ignore. Based on this analysis we were able to identify trends present in boards/subjects in the 10th standard national level exams in India. This study will help school education stakeholders to get an insight into the cognitive level trend/patterns of assessment questions.  
+(preprint and dataset will be available soon). Anirban and Nandagopal are in 4th and 3rd year of a 5 year BS-MS program respectively._  
+**_Publications_**: Vijay augmented their Summer project work and it was accepted as a poster in [EDM 2023](https://educationaldatamining.org/edm2023/). Congrats Anirban and Nandagopal!
 
-Anirban and Nandagopal worked on a comparative study using Bloom’s Taxonomy to evaluate the cognitive levels of secondary school STEM exam questions in Indian School Boards. This research study investigates the cognitive levels of the questions used for assessment and evaluation purposes in three national school board secondary school leaving examinations in STEM subjects, administered in Indian schools from 2011 to 2020. We used the revised Bloom’s Taxonomy to identify the cognitive levels of 3071 exam questions. The study addresses the gap in the current literature on the non-availability of a comparative study of national school board assessment practices in India. The study provides a comparative analysis of three English medium Indian school boards (ICSE, CBSE, and NIOS) by analyzing what areas/topics the board exams test and which ones they ignore. Based on this analysis we were able to identify trends present in boards/subjects in the 10th standard national level exams in India. This study will help school education stakeholders to get an insight into the cognitive level trend/patterns of assessment questions.
-(preprint and dataset will be available soon). Anirban and Nandagopal are in 4th and 3rd year of a 5 year BS-MS program respectively.
-Publications: Vijay augmented their Summer project work and it was accepted as a poster in EDM 2023. Congrats Anirban and Nandagopal!
+*   **[Pratik Poojari](https://www.linkedin.com/in/pratik-poojari-173707173)**  
+    (Graduate intern from Mumbai University, July - October ‘22)
+    
 
-Pratik Poojari
-(Graduate intern from Mumbai University, July - October ‘22)
+_Pratik contributed by developing an accessible plugin for the ET IITB website. This plugin will allow people with certain physical limitations to easily access all the information on the website. Pratik received MS offers in Data Science / Information Systems program at Syracause University and Northeastern respectively._
 
-Pratik contributed by developing an accessible plugin for the ET IITB website. This plugin will allow people with certain physical limitations to easily access all the information on the website. Pratik received MS offers in Data Science / Information Systems program at Syracause University and Northeastern respectively.
+* * *
 
-Courses
-ET622 - Educational Text Data Analysis ( Autumn Semester 2022 )
+**Courses**
+-----------
 
-Understanding Artificial Intelligence, Ethics, and Policy making in the context of Education: An interdisciplinary perspective
-(IIT Bombay International Winter School Course : 5th Dec. 2022 - 13th Dec., 2022)
+*   **ET622 - Educational Text Data Analysis** ( _Autumn Semester 2022_ )
+    
+*   **Understanding Artificial Intelligence, Ethics, and Policy making in the context of Education: An interdisciplinary perspective**  
+    (IIT Bombay International Winter School Course : 5th Dec. 2022 - 13th Dec., 2022)
+    
+*   **ET 614 - Instructional Systems Design** (_To be offered in the Spring Semester 2023_)  
+    Jointly with Prof. [**Sridhar Iyer**](https://www.it.iitb.ac.in/~sri)
+    
 
-ET 614 - Instructional Systems Design (To be offered in the Spring Semester 2023)
-Jointly with Prof. Sridhar Iyer
+* * *
 
-Our Outreach Program
+**Our Outreach Program**
+------------------------
 
-Project STORIES (Structured Tutorials and Organized Resources for Independent Extensive Studies)
+![](assets/images/image03.jpg?v=6cb1f4d0)
 
-Project STORIES is all about the supporting the journey of the 'last mile learner'. Project STORIES was formed with the idea of providing world-class learning opportunities at no cost to anyone working to improve their lives. This project currently curates a generic curriculum and study timetable for popular topics mostly related to undergraduate STEM students interested in technical research roles in the future. The students can utilize the proposed curriculum and study timetable for each course and can use the reference content for independent study. The generic curriculum contains free and publicly available content which allows the learners to understand the concepts, learn the tools, and get skilled to embark on their journey.
+*   **[Project STORIES](https://syaamantakdas5.wixsite.com/project-stories) (Structured Tutorials and Organized Resources for Independent Extensive Studies)**
+    
 
+_Project STORIES is all about the supporting the journey of the 'last mile learner'. Project STORIES was formed with the idea of providing world-class learning opportunities at no cost to anyone working to improve their lives. This project currently curates a generic curriculum and study timetable for popular topics mostly related to undergraduate STEM students interested in technical research roles in the future. The students can utilize the proposed curriculum and study timetable for each course and can use the reference content for independent study. The generic curriculum contains free and publicly available content which allows the learners to understand the concepts, learn the tools, and get skilled to embark on their journey._  
+  
 Disclaimer: Project STORIES doesn't collect any financial support through any means. It's a pro bono personal social responsibility initiative.
 
-Open Resources:Books:
-Design for Learning - A brief introduction to instructional text.
-Doing Research: A New Researcher’s Guide - Describes how to conceptualize, conduct, and communicate research in education. Focuses on developing a conceptual understanding of the research process. Informs beginning and early-career researchers about the importance of performing solid, legitimate research.
-Theoretical and Practical Advances in Computer-based Educational Measurement - Presents theoretical and practical innovations in educational measurement. Builds upon earlier findings and brings some of the latest developments in several important fields. A state of the art work written by experiences authors. Introduces a variety of both psychometrical and educational data mining approaches.
+**Open Resources:**Books:  
+[**Design for Learning**](https://edtechbooks.org/id) - A brief introduction to instructional text.  
+[**Doing Research: A New Researcher’s Guide**](https://link.springer.com/book/10.1007/978-3-031-19078-0) - Describes how to conceptualize, conduct, and communicate research in education. Focuses on developing a conceptual understanding of the research process. Informs beginning and early-career researchers about the importance of performing solid, legitimate research.  
+[**Theoretical and Practical Advances in Computer-based Educational Measurement**](https://link.springer.com/book/10.1007/978-3-031-15266-5) - Presents theoretical and practical innovations in educational measurement. Builds upon earlier findings and brings some of the latest developments in several important fields. A state of the art work written by experiences authors. Introduces a variety of both psychometrical and educational data mining approaches.
 
-Contact Us
-We are looking for: Anyone who is interested in joining us. If you are unsure what to do and how to do it, come and meet us at the address below. We can have a cup of coffee together :-)Prof. Syaamantak Das’s office,
-Faculty Cabins,
-Interdisciplinary program in Educational Technology,
-Old CESE Building (beside Rahul Bajaj Centre / Opposite VMCC)
-IIT Bombay, Mumbai 400076
+* * *
 
-LinkedIn
-Mobile
-Email
+**Contact Us**
+--------------
+
+We are looking for: Anyone who is interested in joining us. If you are unsure what to do and how to do it, come and meet us at the address below. We can have a cup of coffee together :-)**Prof. Syaamantak Das’s office,  
+Faculty Cabins,  
+Interdisciplinary program in Educational Technology,  
+Old CESE Building (beside Rahul Bajaj Centre / Opposite VMCC)  
+IIT Bombay, Mumbai 400076**
+
+*   [LinkedIn](https://www.linkedin.com/in/syaamantakdas/)
+*   [Mobile](tel:+919836903823)
+*   [Email](/cdn-cgi/l/email-protection#3f4c465e5e525e514b5e54115b5e4c7f56564b5d115e5c115651)
+
 शुभम भवतु (May all that happens to you be good to you)
 
 Text
 
-Made with Carrd
+[Made with Carrd](https://carrd.co/build?ref=auto)
+
+(function() {var on = addEventListener,$ = function(q) { return document.querySelector(q) },$$ = function(q) { return document.querySelectorAll(q) },$body = document.body,$inner = $('.inner'),client = (function() {var o = {browser: 'other',browserVersion: 0,os: 'other',osVersion: 0,mobile: false,canUse: null,flags: {lsdUnits: false,},},ua = navigator.userAgent,a, i;a = \[\['firefox',/Firefox\\/(\[0-9\\.\]+)/\],\['edge',/Edge\\/(\[0-9\\.\]+)/\],\['safari',/Version\\/(\[0-9\\.\]+).+Safari/\],\['chrome',/Chrome\\/(\[0-9\\.\]+)/\],\['chrome',/CriOS\\/(\[0-9\\.\]+)/\],\['ie',/Trident\\/.+rv:(\[0-9\]+)/\]\];for (i=0; i < a.length; i++) {if (ua.match(a\[i\]\[1\])) {o.browser = a\[i\]\[0\];o.browserVersion = parseFloat(RegExp.$1);break;}}a = \[\['ios',/(\[0-9\_\]+) like Mac OS X/,function(v) { return v.replace('\_', '.').replace('\_', ''); }\],\['ios',/CPU like Mac OS X/,function(v) { return 0 }\],\['ios',/iPad; CPU/,function(v) { return 0 }\],\['android',/Android (\[0-9\\.\]+)/,null\],\['mac',/Macintosh.+Mac OS X (\[0-9\_\]+)/,function(v) { return v.replace('\_', '.').replace('\_', ''); }\],\['windows',/Windows NT (\[0-9\\.\]+)/,null\],\['undefined',/Undefined/,null\]\];for (i=0; i < a.length; i++) {if (ua.match(a\[i\]\[1\])) {o.os = a\[i\]\[0\];o.osVersion = parseFloat( a\[i\]\[2\] ? (a\[i\]\[2\])(RegExp.$1) : RegExp.$1 );break;}}if (o.os == 'mac'&& ('ontouchstart' in window)&& ((screen.width == 1024 && screen.height == 1366)|| (screen.width == 834 && screen.height == 1112)|| (screen.width == 810 && screen.height == 1080)|| (screen.width == 768 && screen.height == 1024)))o.os = 'ios';o.mobile = (o.os == 'android' || o.os == 'ios');var \_canUse = document.createElement('div');o.canUse = function(property, value) {var style;style = \_canUse.style;if (!(property in style))return false;if (typeof value !== 'undefined') {style\[property\] = value;if (style\[property\] == '')return false;}return true;};o.flags.lsdUnits = o.canUse('width', '100dvw');return o;}()),trigger = function(t) {dispatchEvent(new Event(t));},cssRules = function(selectorText) {var ss = document.styleSheets,a = \[\],f = function(s) {var r = s.cssRules,i;for (i=0; i < r.length; i++) {if (r\[i\] instanceof CSSMediaRule && matchMedia(r\[i\].conditionText).matches)(f)(r\[i\]); else if (r\[i\] instanceof CSSStyleRule && r\[i\].selectorText == selectorText)a.push(r\[i\]);}},x, i;for (i=0; i < ss.length; i++)f(ss\[i\]);return a;},thisHash = function() {var h = location.hash ? location.hash.substring(1) : null,a;if (!h)return null;if (h.match(/\\?/)) {a = h.split('?');h = a\[0\];history.replaceState(undefined, undefined, '#' + h);window.location.search = a\[1\];}if (h.length > 0&& !h.match(/^\[a-zA-Z\]/))h = 'x' + h;if (typeof h == 'string')h = h.toLowerCase();return h;},scrollToElement = function(e, style, duration) {var y, cy, dy,start, easing, offset, f;if (!e)y = 0; else {offset = (e.dataset.scrollOffset ? parseInt(e.dataset.scrollOffset) : 0) \* parseFloat(getComputedStyle(document.documentElement).fontSize);switch (e.dataset.scrollBehavior ? e.dataset.scrollBehavior : 'default') {case 'default':default:y = e.offsetTop + offset;break;case 'center':if (e.offsetHeight < window.innerHeight)y = e.offsetTop - ((window.innerHeight - e.offsetHeight) / 2) + offset; else y = e.offsetTop - offset;break;case 'previous':if (e.previousElementSibling)y = e.previousElementSibling.offsetTop + e.previousElementSibling.offsetHeight + offset; else y = e.offsetTop + offset;break;}}if (!style)style = 'smooth';if (!duration)duration = 750;if (style == 'instant') {window.scrollTo(0, y);return;}start = Date.now();cy = window.scrollY;dy = y - cy;switch (style) {case 'linear':easing = function (t) { return t };break;case 'smooth':easing = function (t) { return t<.5 ? 4\*t\*t\*t : (t-1)\*(2\*t-2)\*(2\*t-2)+1 };break;}f = function() {var t = Date.now() - start;if (t >= duration)window.scroll(0, y); else {window.scroll(0, cy + (dy \* easing(t / duration)));requestAnimationFrame(f);}};f();},scrollToTop = function() {scrollToElement(null);},loadElements = function(parent) {var a, e, x, i;a = parent.querySelectorAll('iframe\[data-src\]:not(\[data-src=""\])');for (i=0; i < a.length; i++) {a\[i\].contentWindow.location.replace(a\[i\].dataset.src);a\[i\].dataset.initialSrc = a\[i\].dataset.src;a\[i\].dataset.src = '';}a = parent.querySelectorAll('video\[autoplay\]');for (i=0; i < a.length; i++) {if (a\[i\].paused)a\[i\].play();}e = parent.querySelector('\[data-autofocus="1"\]');x = e ? e.tagName : null;switch (x) {case 'FORM':e = e.querySelector('.field input, .field select, .field textarea');if (e)e.focus();break;default:break;}},unloadElements = function(parent) {var a, e, x, i;a = parent.querySelectorAll('iframe\[data-src=""\]');for (i=0; i < a.length; i++) {if (a\[i\].dataset.srcUnload === '0')continue;if ('initialSrc' in a\[i\].dataset)a\[i\].dataset.src = a\[i\].dataset.initialSrc; else a\[i\].dataset.src = a\[i\].src;a\[i\].contentWindow.location.replace('about:blank');}a = parent.querySelectorAll('video');for (i=0; i < a.length; i++) {if (!a\[i\].paused)a\[i\].pause();}e = $(':focus');if (e)e.blur();};window.\_scrollToTop = scrollToTop;var thisURL = function() {return window.location.href.replace(window.location.search, '').replace(/#$/, '');};var getVar = function(name) {var a = window.location.search.substring(1).split('&'),b, k;for (k in a) {b = a\[k\].split('=');if (b\[0\] == name)return b\[1\];}return null;};var errors = {handle: function(handler) {window.onerror = function(message, url, line, column, error) {(handler)(error.message);return true;};},unhandle: function() {window.onerror = null;}};on('load', function() {setTimeout(function() {$body.classList.remove('is-loading');$body.classList.add('is-playing');setTimeout(function() {$body.classList.remove('is-playing');$body.classList.add('is-ready');}, 1000);}, 100);});loadElements(document.body);var style, sheet, rule;style = document.createElement('style');style.appendChild(document.createTextNode(''));document.head.appendChild(style);sheet = style.sheet;if (client.mobile) {(function() {if (client.flags.lsdUnits) {document.documentElement.style.setProperty('--viewport-height', '100svh');document.documentElement.style.setProperty('--background-height', '100dvh');} else {var f = function() {document.documentElement.style.setProperty('--viewport-height', window.innerHeight + 'px');document.documentElement.style.setProperty('--background-height', (window.innerHeight + 250) + 'px');};on('load', f);on('orientationchange', function() {setTimeout(function() {(f)();}, 100);});}})();}if (client.os == 'android') {(function() {sheet.insertRule('body::after { }', 0);rule = sheet.cssRules\[0\];var f = function() {rule.style.cssText = 'height: ' + (Math.max(screen.width, screen.height)) + 'px';};on('load', f);on('orientationchange', f);on('touchmove', f);})();$body.classList.add('is-touch');} else if (client.os == 'ios') {if (client.osVersion <= 11)(function() {sheet.insertRule('body::after { }', 0);rule = sheet.cssRules\[0\];rule.style.cssText = '-webkit-transform: scale(1.0)';})();if (client.osVersion <= 11)(function() {sheet.insertRule('body.ios-focus-fix::before { }', 0);rule = sheet.cssRules\[0\];rule.style.cssText = 'height: calc(100% + 60px)';on('focus', function(event) {$body.classList.add('ios-focus-fix');}, true);on('blur', function(event) {$body.classList.remove('ios-focus-fix');}, true);})();$body.classList.add('is-touch');}})();
