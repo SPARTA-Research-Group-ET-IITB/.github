@@ -11,6 +11,97 @@
 
 <div class="inner">
 
+
+## **School Pedagogy Assessment Research and Text Analytics (SPARTA) Research Group**
+
+<span class="p">We are a newly formed research group in IDP in Educational Technology, IIT Bombay started in May 2022\. Our research focuses on human-centered Artificial Intelligence that enhances human capabilities, understands and anticipates an individual’s needs, especially with context to learning. We work with researchers from different disciplines (e.g. Learning Analytics, Information Retrieval) to build quality educational products that help learners to succeed in their quest for learning. The logo symbolizes '[Infinite Syntropy](https://philosophy-of-science.com/defining-syntropy/)'- reflecting a research journey (the continuous transformation from chaos to a well defined structure).</span>
+
+<span class="p"><u>**Broad Research Area:**</u></span>
+<span class="p">**Cognitively informed Artificial Intelligence for Learning Optimization**</span>
+
+<span class="p">Analyzing insights from human perception of information from text data (e.g. how people learn, remember, and make decisions based on textual information) into the design and development of intelligent tools to support learning.</span>
+
+<span class="p">Confereneces where our research got accepted: [ACM Intelligent User Interfaces](https://iui.acm.org/2023/), [Educational Data Mining](https://educationaldatamining.org/edm2023/), [Artificial Intelligence in Education](https://www.aied2023.org/index.html).</span>
+
+# **Our Research Projects**
+
+<span class="p">**Long-term Research Projects:** (Ideally for Ph.D. candidates)</span>
+
+<span class="p"><u>**Better Textbook Initiative:**</u> This is a comprehensive project to improve and optimize learner experience while interacting with a textbook. Currently project is sub-divided into three major goals:  
+
+1\. Designing an 'phygital' interactive intelligent platform to combine digital advantages of interactions in physical textbooks.  
+
+2\. Creating cognitively informed questions based on user interaction with learning materials (textbooks).  
+
+3\. Developing an AI based support for the learner while interacting with the 'phygital' intelligent interactive platform.</span>
+
+<span class="p">The current projects are:</span>
+
+<div id="list01" class="style1 list">
+
+*   Designing an immersive collaborative active learning experience through Phygital textbooks  
+    [Project domain: Smart textbooks, Phygital textbooks]
+    
+*   Identifying learner deficiency in conceptual understanding while answering questions  
+    [Project domain: Question answer generation from restricted and limited search space]
+
+*   Designing and developing a supportive intelligent conversational tool using learner-interaction data  
+    [Project domain: Conversational Artificial Intelligence]
+
+</div>
+
+**Short-term Research Projects:**
+
+<div id="list02" class="list">
+
+*   Analyzing visitor traffic for the ET-IITB website using a heatmap
+
+*   Educational Text translation: A Cognitive Informativity-based approach (IIT Bombay iSURP)
+
+*   Design and Development of a No-code AI Tech Stack for instructional design
+
+</div>
+
+**Collaboration Projects**
+
+<div id="list10" class="list">
+
+*   Cognitive level Analysis of tenth standard board examination assessment questions for STEM subjects in India — June 2022 - July 2022\.  
+    Project domain: School Education, Assessment. Summer Research Project with [IISER Pune](https://www.iiserpune.ac.in)
+
+</div>
+
+**Sponsored Projects**
+
+<div id="list09" class="list">
+
+*   Design and development of low-cost immersive technology enabled inclusive and accessible OER (open educational resources) textbooks — June 2022 - present.  
+    Project domain: Smart textbooks. Sponsor: IRCC, IIT Bombay
+
+</div>
+
+<span class="p">**<mark>Our Group Ethos</mark>**</span>
+<span class="p">  
+Be **battle ready**. The moment you go out be ready to face anything and everything the world may throw at you today, both good and bad.  
+
+If you found an interesting problem and haven't started solving it, be ready to read about it's solution in your next literature survey.  
+
+We want to be a “people first” research group that focuses on both the academic and personal growth of the members.  
+
+We do not expect you to know everything. We expect that you are trying to know.  
+
+We celebrate effort. We believe in giving effort till randomness favors us.  
+
+Discussions are always open and encouraged. And it can be beyond your current research topic. We talk, brainstorm, and sprint a lot. Our whiteboards are always full.  
+
+We expect ideas from you. No matter how small or ambitious it is. Tell us. We will hear you.  
+
+Lastly, it’s OK to have a bad day. There is always a tomorrow.</span>
+
+* * *
+
+## **The Team**
+
 # **Syaamantak Das**
 
 **Assistant Professor,  
@@ -233,90 +324,6 @@ July 2019 - July 2020</td>
 
 * * *
 
-
-## **School Pedagogy Assessment Research and Text Analytics (SPARTA) Research Group**
-
-<span class="p">We are a newly formed research group in IDP in Educational Technology, IIT Bombay started in May 2022\. Our research focuses on human-centered Artificial Intelligence that enhances human capabilities, understands and anticipates an individual’s needs, especially with context to learning. We work with researchers from different disciplines (e.g. Learning Analytics, Information Retrieval) to build quality educational products that help learners to succeed in their quest for learning. The logo symbolizes '[Infinite Syntropy](https://philosophy-of-science.com/defining-syntropy/)'- reflecting a research journey (the continuous transformation from chaos to a well defined structure).</span>
-
-<span class="p"><u>**Broad Research Area:**</u></span>
-<span class="p">**Cognitively informed Artificial Intelligence for Learning Optimization**</span>
-<span class="p">Analyzing insights from human perception of information from text data (e.g. how people learn, remember, and make decisions based on textual information) into the design and development of intelligent tools to support learning.</span>
-<span class="p">Confereneces where our research got accepted: [ACM Intelligent User Interfaces](https://iui.acm.org/2023/), [Educational Data Mining](https://educationaldatamining.org/edm2023/), [Artificial Intelligence in Education](https://www.aied2023.org/index.html).</span>
-
-# **Our Research Projects**
-
-<span class="p">**Long-term Research Projects:** (Ideally for Ph.D. candidates)</span><span class="p"><u>**Better Textbook Initiative:**</u> This is a comprehensive project to improve and optimize learner experience while interacting with a textbook. Currently project is sub-divided into three major goals:  
-
-1\. Designing an 'phygital' interactive intelligent platform to combine digital advantages of interactions in physical textbooks.  
-
-2\. Creating cognitively informed questions based on user interaction with learning materials (textbooks).  
-
-3\. Developing an AI based support for the learner while interacting with the 'phygital' intelligent interactive platform.</span><span class="p">The current projects are:</span>
-
-<div id="list01" class="style1 list">
-
-*   Designing an immersive collaborative active learning experience through Phygital textbooks  
-    [Project domain: Smart textbooks, Phygital textbooks]
-    
-*   Identifying learner deficiency in conceptual understanding while answering questions  
-    [Project domain: Question answer generation from restricted and limited search space]
-
-*   Designing and developing a supportive intelligent conversational tool using learner-interaction data  
-    [Project domain: Conversational Artificial Intelligence]
-
-</div>
-
-**Short-term Research Projects:**
-
-<div id="list02" class="list">
-
-*   Analyzing visitor traffic for the ET-IITB website using a heatmap
-
-*   Educational Text translation: A Cognitive Informativity-based approach (IIT Bombay iSURP)
-
-*   Design and Development of a No-code AI Tech Stack for instructional design
-
-</div>
-
-**Collaboration Projects**
-
-<div id="list10" class="list">
-
-*   Cognitive level Analysis of tenth standard board examination assessment questions for STEM subjects in India — June 2022 - July 2022\.  
-    Project domain: School Education, Assessment. Summer Research Project with [IISER Pune](https://www.iiserpune.ac.in)
-
-</div>
-
-**Sponsored Projects**
-
-<div id="list09" class="list">
-
-*   Design and development of low-cost immersive technology enabled inclusive and accessible OER (open educational resources) textbooks — June 2022 - present.  
-    Project domain: Smart textbooks. Sponsor: IRCC, IIT Bombay
-
-</div>
-
-<span class="p">**<mark>Our Group Ethos</mark>**</span>
-<span class="p">  
-Be **battle ready**. The moment you go out be ready to face anything and everything the world may throw at you today, both good and bad.  
-
-If you found an interesting problem and haven't started solving it, be ready to read about it's solution in your next literature survey.  
-
-We want to be a “people first” research group that focuses on both the academic and personal growth of the members.  
-
-We do not expect you to know everything. We expect that you are trying to know.  
-
-We celebrate effort. We believe in giving effort till randomness favors us.  
-
-Discussions are always open and encouraged. And it can be beyond your current research topic. We talk, brainstorm, and sprint a lot. Our whiteboards are always full.  
-
-We expect ideas from you. No matter how small or ambitious it is. Tell us. We will hear you.  
-
-Lastly, it’s OK to have a bad day. There is always a tomorrow.</span>
-
-* * *
-
-## **Team Members**
 
 **Current Team Members**
 
