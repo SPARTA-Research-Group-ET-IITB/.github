@@ -25,7 +25,7 @@ Indian Institute of Technology Bombay, Mumbai, India**
 
 ## **About the PI**
 
-<span class="p">Prof. Syaamantak Das is currently working as Assistant Professor in the interdisciplinary program (IDP) in Educational Technology at the Indian Institute of Technology Bombay ( [<span class="__cf_email__" data-cfemail="155041555c5c4157">[email protected]</span>](https://www.et.iitb.ac.in)), Mumbai, India. Prof. Das received his Ph.D. in Cognitive Information Analysis of Educational Texts from the Centre for Educational Technology at the [Indian Institute of Technology Kharagpur](https://www.iitkgp.ac.in) after completing his Masters in the field of Computer Science from the [National Institute of Technology Durgapur](https://nitdgp.ac.in) and the [National Institute of Technical Teachers’ Training and Research in Kolkata](http://www.nitttrkol.ac.in). After his Ph.D., he was with the [Harris School of Public Policy, at the University of Chicago](https://harris.uchicago.edu) researching as a Data and Policy Summer Scholar in the field of Education Policy analyzing the impact of the “safe passage program” in Chicago city schools. Prior to this, he was associated with Piramal and WorldQuant. He is currently the Co-faculty-in-charge of the Website and Social Media Team, [[email protected]](/cdn-cgi/l/email-protection), and also the Faculty-coordinator for [[email protected]](/cdn-cgi/l/email-protection) in TechConnect 2022 at [TechFest](https://techfest.org/).  
+<span class="p">Prof. Syaamantak Das is currently working as Assistant Professor in the interdisciplinary program (IDP) in [Educational Technology at the Indian Institute of Technology Bombay](https://www.et.iitb.ac.in), Mumbai, India. Prof. Das received his Ph.D. in Cognitive Information Analysis of Educational Texts from the Centre for Educational Technology at the [Indian Institute of Technology Kharagpur](https://www.iitkgp.ac.in) after completing his Masters in the field of Computer Science from the [National Institute of Technology Durgapur](https://nitdgp.ac.in) and the [National Institute of Technical Teachers’ Training and Research in Kolkata](http://www.nitttrkol.ac.in). After his Ph.D., he was with the [Harris School of Public Policy, at the University of Chicago](https://harris.uchicago.edu) researching as a Data and Policy Summer Scholar in the field of Education Policy analyzing the impact of the “safe passage program” in Chicago city schools. Prior to this, he was associated with Piramal and WorldQuant. He is currently the Co-faculty-in-charge of the Website and Social Media Team, and also the Faculty-coordinator for TechConnect 2022 at [TechFest](https://techfest.org/).  
 
 Professional Memberships : [ACM](http://member.acm.org/~syaamantakd)  
 
@@ -236,7 +236,12 @@ July 2019 - July 2020</td>
 
 ## **School Pedagogy Assessment Research and Text Analytics (SPARTA) Research Group**
 
-<span class="p">We are a newly formed research group in IDP in Educational Technology, IIT Bombay started in May 2022\. Our research focuses on human-centered Artificial Intelligence that enhances human capabilities, understands and anticipates an individual’s needs, especially with context to learning. We work with researchers from different disciplines (e.g. Learning Analytics, Information Retrieval) to build quality educational products that help learners to succeed in their quest for learning. The logo symbolizes '[Infinite Syntropy](https://philosophy-of-science.com/defining-syntropy/)'- reflecting a research journey (the continuous transformation from chaos to a well defined structure).</span><span class="p"><u>**Broad Research Area:**</u></span><span class="p">**Cognitively informed Artificial Intelligence for Learning Optimization**</span><span class="p">_Analyzing insights from human perception of information from text data (e.g. how people learn, remember, and make decisions based on textual information) into the design and development of intelligent tools to support learning._</span><span class="p">Confereneces where our research got accepted: [ACM Intelligent User Interfaces](https://iui.acm.org/2023/), [Educational Data Mining](https://educationaldatamining.org/edm2023/), [Artificial Intelligence in Education](https://www.aied2023.org/index.html).</span>
+<span class="p">We are a newly formed research group in IDP in Educational Technology, IIT Bombay started in May 2022\. Our research focuses on human-centered Artificial Intelligence that enhances human capabilities, understands and anticipates an individual’s needs, especially with context to learning. We work with researchers from different disciplines (e.g. Learning Analytics, Information Retrieval) to build quality educational products that help learners to succeed in their quest for learning. The logo symbolizes '[Infinite Syntropy](https://philosophy-of-science.com/defining-syntropy/)'- reflecting a research journey (the continuous transformation from chaos to a well defined structure).</span>
+
+<span class="p"><u>**Broad Research Area:**</u></span>
+<span class="p">**Cognitively informed Artificial Intelligence for Learning Optimization**</span>
+<span class="p">Analyzing insights from human perception of information from text data (e.g. how people learn, remember, and make decisions based on textual information) into the design and development of intelligent tools to support learning.</span>
+<span class="p">Confereneces where our research got accepted: [ACM Intelligent User Interfaces](https://iui.acm.org/2023/), [Educational Data Mining](https://educationaldatamining.org/edm2023/), [Artificial Intelligence in Education](https://www.aied2023.org/index.html).</span>
 
 # **Our Research Projects**
 
@@ -251,13 +256,13 @@ July 2019 - July 2020</td>
 <div id="list01" class="style1 list">
 
 *   Designing an immersive collaborative active learning experience through Phygital textbooks  
-    _[Project domain: Smart textbooks, Phygital textbooks]_
-
+    [Project domain: Smart textbooks, Phygital textbooks]
+    
 *   Identifying learner deficiency in conceptual understanding while answering questions  
-    _[Project domain: Question answer generation from restricted and limited search space]_
+    [Project domain: Question answer generation from restricted and limited search space]
 
-*   Designing and developing a supportive intelligent conversational tool using learner-interaction data_  
-    [Project domain: Conversational Artificial Intelligence]_
+*   Designing and developing a supportive intelligent conversational tool using learner-interaction data  
+    [Project domain: Conversational Artificial Intelligence]
 
 </div>
 
@@ -291,7 +296,8 @@ July 2019 - July 2020</td>
 
 </div>
 
-<span class="p">**<mark>Our Group Ethos</mark>**</span><span class="p">  
+<span class="p">**<mark>Our Group Ethos</mark>**</span>
+<span class="p">  
 Be **battle ready**. The moment you go out be ready to face anything and everything the world may throw at you today, both good and bad.  
 
 If you found an interesting problem and haven't started solving it, be ready to read about it's solution in your next literature survey.  
@@ -325,7 +331,7 @@ Lastly, it’s OK to have a bad day. There is always a tomorrow.</span>
 
 *   **[Sunny Prakash Prajapati](https://www.linkedin.com/in/sunny-prakash-prajapati/)** (Ph.D. ET 1st Year) - With a background in Product Engineering Design from IISc, Sunny’s research is focused on designing an immersive collaborative active learning experience through Phygital textbooks. Research Area: Human-Computer Interaction, Collaborative Learning  
     <mark>**_Publications_**</mark>: [Doctoral Consortium](https://dl.acm.org/doi/pdf/10.1145/3581754.3584108) and [Poster](https://dl.acm.org/doi/pdf/10.1145/3581754.3584117) accepted in [ACM IUI 2023](https://iui.acm.org/2023/). Download additional [paper resources](https://dl.acm.org/doi/10.1145/3581754.3584117).  
-    **__<u>Scholarship/ Grants</u>_:_** [Prime Minister Research Fellowship](https://www.pmrf.in/), [Gary Marsden Travel Awards](https://sigchi.org/awards/gary-marsden-travel-awards/), ACM IUI Student Grants.
+    **<u>Scholarship/ Grants</u>_:_** [Prime Minister Research Fellowship](https://www.pmrf.in/), [Gary Marsden Travel Awards](https://sigchi.org/awards/gary-marsden-travel-awards/), ACM IUI Student Grants.
 
 *   **[Kartikay Agrawal](https://www.linkedin.com/in/kartikayagrawal/)** (incoming IRCC intern Jan 2023 onwards) - Kartikey, having a background in Data Science and Mathematics from DU, will be working on Question Answer pair generation from user-defined limited search space. Research Area: Information Search, Question answer generation.  
     **_<mark>Publications</mark>_**:  
@@ -351,8 +357,11 @@ Lastly, it’s OK to have a bad day. There is always a tomorrow.</span>
 </div>
 
 <span class="p">_Anirban and Nandagopal worked on a comparative study using Bloom’s Taxonomy to evaluate the cognitive levels of secondary school STEM exam questions in Indian School Boards. This research study investigates the cognitive levels of the questions used for assessment and evaluation purposes in three national school board secondary school leaving examinations in STEM subjects, administered in Indian schools from 2011 to 2020\. We used the revised Bloom’s Taxonomy to identify the cognitive levels of 3071 exam questions. The study addresses the gap in the current literature on the non-availability of a comparative study of national school board assessment practices in India. The study provides a comparative analysis of three English medium Indian school boards (ICSE, CBSE, and NIOS) by analyzing what areas/topics the board exams test and which ones they ignore. Based on this analysis we were able to identify trends present in boards/subjects in the 10th standard national level exams in India. This study will help school education stakeholders to get an insight into the cognitive level trend/patterns of assessment questions.  
-(preprint and dataset will be available soon). Anirban and Nandagopal are in 4th and 3rd year of a 5 year BS-MS program respectively._</span><span class="p">  
-<mark>**_Publications_**</mark>: Vijay augmented their Summer project work and it was accepted as a poster in [EDM 2023](https://educationaldatamining.org/edm2023/). Congrats Anirban and Nandagopal!</span>
+(preprint and dataset will be available soon). Anirban and Nandagopal are in 4th and 3rd year of a 5 year BS-MS program respectively._</span>
+<span class="p">  
+<mark>**_Publications_**</mark>: Vijay augmented their Summer project work and it was accepted as a poster in [EDM 2023](https://educationaldatamining.org/edm2023/) </span>
+    
+<span class="p">_Congrats Anirban and Nandagopal!_</span>
 
 <div id="list05" class="list">
 
@@ -413,7 +422,7 @@ IIT Bombay, Mumbai 400076**</span>
 
 *   [<span class="label">LinkedIn</span>](https://www.linkedin.com/in/syaamantakdas/)
 *   [<span class="label">Mobile</span>](tel:+919836903823)
-*   [<span class="label">Email</span>](/cdn-cgi/l/email-protection#ccbfb5adada1ada2b8ada7e2a8adbf8ca5a5b8aee2adafe2a5a2)
+*   [<span class="label">Email</span>](mailto:syaamantak.das@iitb.ac.in)
 
 शुभम भवतु (May all that happens to you be good to you)
 
