@@ -336,7 +336,7 @@ July 2019 - July 2020</td>
 
 *   **[Devanshu Saindane](https://www.linkedin.com/in/devanshux12/)** (M.Tech. ET 2nd Year) - Devanshu designed Augmented Reality content that can be embedded in physical textbooks. Research Area: Embedded Augmented Reality.
 
-*   **[Sunny Prakash Prajapati](https://www.linkedin.com/in/sunny-prakash-prajapati/)** (Ph.D. ET 1st Year) - With a background in Product Engineering Design from IISc, Sunny’s research is focused on designing an immersive collaborative active learning experience through Phygital textbooks. Research Area: Human-Computer Interaction, Collaborative Learning  
+*   **[Sunny Prakash Prajapati](https://www.linkedin.com/in/sunny-prakash-prajapati/)** (Ph.D. ET 1st Year) - With a background in Product Engineering Design from IISc, Sunny’s research is focused on designing **Interactext** : an immersive collaborative active learning experience through Phygital textbooks. Research Area: Human-Computer Interaction, Collaborative Learning  
     <mark>**_Publications_**</mark>: [Doctoral Consortium](https://dl.acm.org/doi/pdf/10.1145/3581754.3584108) and [Poster](https://dl.acm.org/doi/pdf/10.1145/3581754.3584117) accepted in [ACM IUI 2023](https://iui.acm.org/2023/). Download additional [paper resources](https://dl.acm.org/doi/10.1145/3581754.3584117).  
     **<u>Scholarship/ Grants</u>_:_** [Prime Minister Research Fellowship](https://www.pmrf.in/), [Gary Marsden Travel Awards](https://sigchi.org/awards/gary-marsden-travel-awards/), ACM IUI Student Grants.
 
