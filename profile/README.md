@@ -118,7 +118,7 @@ Indian Institute of Technology Bombay, Mumbai, India**
 
 <span class="p">Prof. Syaamantak Das is currently working as Assistant Professor in the interdisciplinary program (IDP) in [Educational Technology at the Indian Institute of Technology Bombay](https://www.et.iitb.ac.in), Mumbai, India. Prof. Das received his Ph.D. in Cognitive Information Analysis of Educational Texts from the Centre for Educational Technology at the [Indian Institute of Technology Kharagpur](https://www.iitkgp.ac.in) after completing his Masters in the field of Computer Science from the [National Institute of Technology Durgapur](https://nitdgp.ac.in) and the [National Institute of Technical Teachers’ Training and Research in Kolkata](http://www.nitttrkol.ac.in). After his Ph.D., he was with the [Harris School of Public Policy, at the University of Chicago](https://harris.uchicago.edu) researching as a Data and Policy Summer Scholar in the field of Education Policy analyzing the impact of the “safe passage program” in Chicago city schools. Prior to this, he was associated with Piramal and WorldQuant. He is currently the Co-faculty-in-charge of the Website and Social Media Team, and also the Faculty-coordinator for TechConnect 2022 at [TechFest](https://techfest.org/).  
 
-Professional Memberships : [ACM](http://member.acm.org/~syaamantakd)  
+Professional Memberships : [ACM](http://member.acm.org/~syaamantakd), [CHI](https://dl.acm.org/sig/sigchi)  
 
 Detailed [CV here](https://drive.google.com/file/d/1AeK298pWfus7NX9Clzb9gNSSpWLE_LFp/view?usp=share_link).  
 Schedule **[Appointment](https://calendly.com/syaamantak_das)**</span>
